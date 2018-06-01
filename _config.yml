@@ -14,7 +14,7 @@ description: Another blog for promote open data for the citizen goverment
 url: "https://manuelvarzen.github.io/Vigia"
 #Dont change
 twitter_username: 
-default_img: /img/OpenData.jpg
+default_img: /Vigia/img/OpenData.jpg
 
 # Profile settings
 name: Vigia
