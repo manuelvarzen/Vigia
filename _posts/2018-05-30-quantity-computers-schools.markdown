@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cantidad de computadoras en colegios públicos"
+title: "Disposición de computadoras en colegios públicos"
 date: 2018-05-30
 summary: Colegios, Computadoras, Alumnos
 description: Una historia de estudiantes y computadoras
@@ -14,7 +14,7 @@ categories:
   - Open Goverment
 ---
 
-Para un chibolo y sus amigos, de colegio público o privado, de ciertas características, haber contado con computadoras en la escuela pudo haber sido una experiencia llena de frustración. Al menos lo fue para los estudiantes de dos instituciones educativas según lo hemos sustentado en esta [tesis](http://bit.ly/2IVl3Pe) hace algunos años atrás. 
+Para un chibolo y sus amigos, de cualquier colegios público, de ciertas características, haber contado con computadoras en la escuela pudo haber sido una experiencia llena de frustración. Al menos lo fue para los estudiantes de dos instituciones educativas según lo hemos sustentado en esta [tesis](http://bit.ly/2IVl3Pe) hace algunos años atrás. 
 
 Lo cierto es que alguna vez nos encontramos con un colegio público que tuvo una población de 2,800 estudiantes y 80 computadoras, distribuidos en 2 laboratorios. Una división simple nos indicaría un ratio y ese número es imaginarse tantos alumnos sentadas al frente de una computadora personal. 
 
