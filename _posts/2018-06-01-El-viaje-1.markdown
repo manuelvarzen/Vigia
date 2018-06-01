@@ -7,8 +7,8 @@ categories:
   - Decisions
   - Open Data
 description:
-image: /img/QlikSense_Trabajadores.png
-image-sm: /img/QlikSense_Trabajadores.png
+image: /Vigia/img/QlikSense_Trabajadores.png
+image-sm: /Vigia/img/QlikSense_Trabajadores.png
 ---
 
 Distribución estimada del nivel educativo del personal que labora en una empresa. 
