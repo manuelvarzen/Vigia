@@ -4,8 +4,8 @@ title: "Cantidad de computadoras en colegios públicos"
 date: 2018-05-30
 summary: Colegios, Computadoras, Alumnos
 description: Una historia de estudiantes y computadoras
-image: https://picsum.photos/2000/1200?image=1003
-image-sm: https://picsum.photos/2000/1200?image=1003
+image: /Vigia/img/
+image-sm: /Vigia/img/
 categories:
   - Computers
   - Schools
