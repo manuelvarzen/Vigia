@@ -8,8 +8,8 @@ categories:
   - Data
   - Goverment 
 description: Otra historia de datos abiertos.
-image: https://picsum.photos/2000/1200?image=1003
-image-sm: https://picsum.photos/2000/1200?image=1003
+image: /img/SanIsidro-1.jpg 
+image-sm: /img/SanIsidro-1.jpg 
 ---
 
 <iframe width="100%" height="520" frameborder="0" src="https://manuelvarzen.carto.com/builder/40bb07aa-696a-40c9-bdab-3bfdad00d2b0/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
