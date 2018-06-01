@@ -18,7 +18,7 @@ default_img: /img/OpenData.jpg
 
 # Profile settings
 name: Vigia
-profile_img: Vigia/img/Vigia.jpg
+profile_img: /Vigia/img/Vigia.jpg
 profile: Manuel Vargas Alegría is an apprentice of the use of open data for open goverment. As such, he works on constructing questions that orient a sense to the tasks of public management as well as private activity. Feel free to contact him if you need help to ask critical questions about the meaning of the existence of technology in your organization, public or private.
 social:   
     github: "https://github.com/manuelvarzen"
