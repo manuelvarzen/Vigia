@@ -1,20 +1,23 @@
 # Site settings
-email: 
+email: manuel.vargas.alegria@gmail.com
 # Dont change
-baseurl: ""
+baseurl: "/Vigia/"
 # Dont change
 paginate: 5
 paginate_path: "/blog/page-:num"
 google_analytics: 
 
 # SEO settings
-title: Open Data for the Citizen Government
+title: Vigía!, Open Data for the Citizen Government
 description: Another blog for promote open data for the citizen goverment
 #Dont change
-url: "https://manuelvarzen.github.io/Vigia"
+url: "https://manuelvarzen.github.io/"
 #Dont change
-twitter_username: manuelvarzen
+twitter:
+  username: manuelvarzen
+  site: 
 default_img: /Vigia/img/OpenData.jpg
+
 
 # Profile settings
 name: Vigia
