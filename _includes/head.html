@@ -59,9 +59,10 @@
 
   <!-- page.modified isn't a natural Jekyll property, but it can be added. -->
   {% if page.summary %}
-  <meta name="twitter:description" content="{{ page.summary }}">
+  <meta name="twitter:description" content="{{ page.meta_description }}">
   {% else %}
-  <meta name="twitter:description" content="{{ site.description }}">  
+  <meta name="twitter:description" content="{{ page.content | strip_html | xml_escape
+      | truncate: 200 }}">  
   <!-- <meta property="modified_time" content="{{page.modified}}" /> -->
   {% endif %}
 
@@ -87,10 +88,10 @@
 
 {% if page.image %}
     <meta property="og:image" content="{{ site.url }}{{page.image}}" />
-    <meta name="twitter:image" content="{{ site.url }}{{page.image}}" />
+    <meta name="twitter:image" content="{{ site.urlimg }}{{page.image.thumb}}" />
 {% else %}
     <meta property="og:image" content="{{ site.url }}{{page.image}}" />
-    <meta name="twitter:image" content="{{ site.url }}{{page.image}}" />
+    <meta name="twitter:image" content="{{ site.urlimg }}{{page.image}}" />
   {% endif %}
 
 {% else %}
