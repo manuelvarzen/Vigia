@@ -8,13 +8,8 @@ categories:
   - Data
   - Goverment 
 description: Otra historia de datos abiertos.
-<<<<<<< HEAD
-image: /img/SanIsidro-1.jpg 
-image-sm: /img/SanIsidro-1.jpg 
-=======
 image: /Vigia/img/SanIsidro-1.jpg
 image-sm: /Vigia/img/SanIsidro-1.jpg
->>>>>>> b63c5b9829803a01eb76233b74109814dfda7d23
 ---
 
 <iframe width="100%" height="520" frameborder="0" src="https://manuelvarzen.carto.com/builder/40bb07aa-696a-40c9-bdab-3bfdad00d2b0/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
