@@ -7,11 +7,9 @@ categories:
   - Decisions
   - Open Data
 description:
-image: https://picsum.photos/2000/1200?image=1003
-image-sm: https://picsum.photos/500/300?image=1003
+image: /Vigia/img/QlikSense_Trabajadores.png
+image-sm: /Vigia/img/QlikSense_Trabajadores.png
 ---
 
-Sites: 
-sunedu.gob.pe
-pontencarrera.gob.pe 
+Distribución estimada del nivel educativo del personal de una empresa
 
