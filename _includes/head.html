@@ -80,7 +80,7 @@
   {% endfor %}
 
   <!-- I prefer the summary_large_image Twitter card for posts. -->
-  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:card" content="summary_large_image" />
   <!-- You, you're the creator. -->
   <meta name="twitter:creator" content="@manuelvarzen" />
   <!-- This property is for the article title, not site title. -->
@@ -91,7 +91,7 @@
     <meta name="twitter:image" content="{{ site.urlimg }}{{page.image.thumb}}" />
 {% else %}
     <meta property="og:image" content="{{ site.url }}{{page.image}}" />
-    <meta name="twitter:image" content="{{ site.urlimg }}{{page.image.thumb}}" />
+    <meta name="twitter:image" content="{{ site.urlimg }}{{page.image}}" />
   {% endif %}
 
 {% else %}
@@ -99,8 +99,8 @@
   <meta property="og:image:url" content="{{ site.url }}{{page.image}}" />
   <meta property="og:type" content="website" />
 
-  <meta name="twitter:card" content="summary" />
-  <meta name="twitter:image" content="{{ site.urlimg }}{{page.image}}">
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:image" content="{{ site.url }}{{page.image}}">
   <meta name="twitter:title" content="{{ site.title }}" />
     
 {% endif %}
