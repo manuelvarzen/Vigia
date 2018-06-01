@@ -87,10 +87,10 @@
 
  {% if page.image %}
     <meta property="og:image" content="{{ site.url }}{{page.image}}" />
-    <meta name="twitter:image" content="https://manuelvarzen.github.io/Vigia/img/{{page.image}}" />
+    <meta name="twitter:image" content="{{ site.url }}{{page.image}}" />
   {% else %}
     <meta property="og:image" content="{{ site.url }}{{page.image}}" />
-    <meta name="twitter:image" content="https://manuelvarzen.github.io/Vigia/img/{{page.image}}" />
+    <meta name="twitter:image" content="{{ site.url }}{{page.image}}" />
   {% endif %}
 
 {% else %}
