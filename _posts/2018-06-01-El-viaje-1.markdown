@@ -1,0 +1,17 @@
+---
+layout: post
+title: "El viaje de un padre de familia - 1"
+date: 2018-06-01
+categories:
+  - Public information
+  - Decisions
+  - Open Data
+description:
+image: https://picsum.photos/2000/1200?image=1003
+image-sm: https://picsum.photos/500/300?image=1003
+---
+
+Sites: 
+sunedu.gob.pe
+pontencarrera.gob.pe 
+
