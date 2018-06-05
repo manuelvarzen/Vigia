@@ -1,5 +1,5 @@
 # Site settings
-email: 
+email: manuel.vargas.alegria@gmail.com
 # Dont change
 baseurl: "/Vigia"
 # Dont change
@@ -8,20 +8,26 @@ paginate_path: "/blog/page-:num"
 google_analytics: 
 
 # SEO settings
-title: Trophy
-description: 
+title: Vigía!, Open Data for the Citizen Government
+description: Another blog for promote open data for the citizen goverment
 #Dont change
-url: "https://manuelvarzen.github.io/Vigia"
+url: "https://manuelvarzen.github.io/"
 #Dont change
-twitter_username: 
-default_img: 
+twitter:
+  username: manuelvarzen
+  site: 
+default_img: /Vigia/img/OpenData_500x300.png
+
 
 # Profile settings
-name: 
-profile_img: 
-profile: 
-social:
-  github: 
+name: Vigia
+profile_img: /Vigia/img/Vigia.jpg
+profile: Manuel Vargas Alegría is an apprentice of the use of open data for open goverment. As such, he works on constructing questions that orient a sense to the tasks of public management as well as private activity. Feel free to contact him if you need help to ask critical questions about the meaning of the existence of technology in your organization, public or private.
+social:   
+    github: "https://github.com/manuelvarzen"
+    twitter: "https://twitter.com/manuelvarzen"
+    facebook: "https://www.facebook.com/manuelvarzen"
+    linkedin: "https://www.linkedin.com/in/manuelvarzen"
 
 # Build settings
 exclude: ["_screenshots", "Gemfile", "Gemfile.lock", "LICENSE.txt", "README.md"]
@@ -33,4 +39,4 @@ sass:
   style: compressed
 
 # Gems
-plugins_dir: [jekyll-paginate, jekyll-sitemap, octopress-autoprefixer]
+plugins_dir: [jekyll-seo-tag, jekyll-paginate, jekyll-sitemap, octopress-autoprefixer]

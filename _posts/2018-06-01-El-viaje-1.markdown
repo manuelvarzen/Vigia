@@ -1,0 +1,15 @@
+---
+layout: post
+title: "El viaje de un padre de familia - 1"
+date: 2018-06-01
+categories:
+  - Public information
+  - Decisions
+  - Open Data
+description:
+image: /Vigia/img/QlikSense_Trabajadores.png
+image-sm: /Vigia/img/QlikSense_Trabajadores.png
+---
+
+Distribución estimada del nivel educativo del personal que labora en una empresa. 
+
