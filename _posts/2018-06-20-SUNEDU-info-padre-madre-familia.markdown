@@ -13,14 +13,14 @@ categories:
   - Education
 ---
 
-Si yo fuera un padre de familia preocupado por donde quisiera que mi hijo estudie su futura carrera profesional o un adolescente / joven quien desea estudiar en alguna universidad pública o si los medios me lo permiten privada, en sus sabores: asociativas o societarias; tendrían que visitar, sin dudarlo, el portal de (PonteEnCarrera.pe)[https://www.ponteencarrera.pe/]. 
+Si yo fuera un padre de familia preocupado por donde quisiera que mi hijo estudie su futura carrera profesional o un adolescente / joven quien desea estudiar en alguna universidad pública o si los medios me lo permiten privada, en sus sabores: asociativas o societarias; tendrían que visitar, sin dudarlo, el portal de [PonteEnCarrera.pe](https://www.ponteencarrera.pe/). 
 {: style="text-align: justify"}
 
 Es evidente que este portal fue diseñado pensando en un perfil de usuario que busca información de manera de secuencial: que carrera quiero estudiar, instituto, universidad, donde se encuentran ubicados, cuanto cuesta y finalmente donde puedo encontrar ayuda financiera si en caso lo necesitara. Sin embargo carece de un bloque de información: ¿qué universidades se encuentran licenciadas y cuales no? 
 {: style="text-align: justify"}
 
 Así que siendo padre o el futuro estudiante universitario tengo que salir de este portal e ingresar al 
-del (SIBE)[https://www.sunedu.gob.pe/sibe/] de la (SUNEDU)[https://www.sunedu.gob.pe/] donde encontraré la información que requiero conocer. Esta es muy valiosa porque una mala elección puede hacerme perder tiempo y dinero que jamás volveré a recuperar y que mucho menos el Estado me devolverá. 
+del [SIBE](https://www.sunedu.gob.pe/sibe/) de la [SUNEDU](https://www.sunedu.gob.pe/) donde encontraré la información que requiero conocer. Esta es muy valiosa porque una mala elección puede hacerme perder tiempo y dinero que jamás volveré a recuperar y que mucho menos el Estado me devolverá. 
 {: style="text-align: justify"}
 
 Así que en una posible integración de ambas informaciones el bloque correspondiente al estado de licenciamiento de universidades podría tener una forma similar a la que publicamos a continuación para asegurarnos que el usuario / ciudadano adoptaría mejores decisiones para cuidar su tiempo y dinero. 
