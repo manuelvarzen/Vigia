@@ -4,8 +4,8 @@ title: "SUNEDU_PonteEnCarrera info para el padre/madre de familia(en modo sueño
 date: 2018-06-20
 summary: Situación del licenciamiento de las universidades en Lima Metropolitana
 description: 
-image: /Vigia/img/LimaUnivLima2018.jpg
-image-sm: /Vigia/LimaUnivLima2018.jpg
+image: /Vigia/img/LicenUnivLima2018.jpg
+image-sm: /Vigia/img/LicenUnivLima2018.jpg
 categories:
   - University
   - College
