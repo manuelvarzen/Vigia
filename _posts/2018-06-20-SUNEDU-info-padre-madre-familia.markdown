@@ -30,9 +30,6 @@ Así que en una posible integración de ambas informaciones el bloque correspond
 
 Es relativamente sencillo, desde el punto de vista técnico, hacer el famoso procesos de extraer, transformar y cargar (ETL). El aspecto más complicado siempre es (y tal vez será) como atenuar la búsqueda infinita por el reconocimiento personal que se expresan a través de las frases "yo lo hice, yo lo dije". Un trabajo voluntario, desinteresado y buscando el bien común siempre será reconocido sin bombo ni platillo.     
 {: style="text-align: justify"}
-<<<<<<< HEAD
 
 Entonces la pregunta dirigida al colectivo es: ¿cuanto esfuerzo demandaría combinar la información de ambos portales? Mucho, poco, nada. Todo dependerá siempre de la decisión básicamente de los ciudadanos que manejan información. No necesariamente se requiere un concurso de prototipos (en el Perú se le conocen como Hackathon) para hacer algo para informar mejor a los ciudadano.   
 {: style="text-align: justify"}
-=======
->>>>>>> 86b53c28ea1b82f9fff46b42e1c71dd34ab5a961
