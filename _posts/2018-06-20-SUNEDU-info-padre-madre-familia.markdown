@@ -12,8 +12,6 @@ categories:
   - License
   - Education
 ---
-Si yo fuera un padre de familia y quisiera saber en que universidad seria más viable que mi hijo estudiara su educación superior debería preocuparme, de verdad y en serio, con relación al estado de licenciamiento de las universidades, sean públicas o privadas y de estas en sus dos sabores: asociativas y societarias. Así es que debería ingresar al portal de información conocido como (SIBE)[https://www.sunedu.gob.pe/sibe/] de la (SUNEDU)[https://www.sunedu.gob.pe/] y averiguar el estado del licenciamiento de estas casas de estudios.
-{: style="text-align: justify"}
 
 Pero el hecho es que si ingreso a dicho portal tengo algunos inconvenientes para visualizar, desde mi interés como padre de familia, la información que requiero. Por ejemplo no logro ubicar a las universidades,
 {: style="text-align: justify"}
@@ -26,7 +24,4 @@ El ejemplo es simple pero efectivo por que implica varias decisiones para el pad
 {: style="text-align: justify"}
 
 Estos últimos datos, los costos, son inexistentes en el portal de la información de la SUNEDU. ¿Deberían publicarlos? Bueno, justamente, si definimos que este portal debería dirigirse a los padres de familia, como un usuario/ciudadano, pues sí, caso contrario, que sentido tendría si no atiende la necesidad de algún perfil. 
-{: style="text-align: justify"}
-
-Finalmente, el portal ponte en carrera 
 {: style="text-align: justify"}
