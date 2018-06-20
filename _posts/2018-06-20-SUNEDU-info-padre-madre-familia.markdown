@@ -12,12 +12,8 @@ categories:
   - License
   - Education
 ---
-<<<<<<< HEAD
 Si yo fuera un padre de familia y quisiera saber en que universidad seria más viable que mi hijo estudiara su educación superior debería preocuparme, de verdad y en serio, con relación al estado de licenciamiento de las universidades, sean públicas o privadas y de estas en sus dos sabores: asociativas y societarias. Así es que debería ingresar al portal de información conocido como [SIBE](https://www.sunedu.gob.pe/sibe/) de la
 [SUNEDU](https://www.sunedu.gob.pe/) y averiguar el estado del licenciamiento de estas casas de estudios.
-=======
-Si yo fuera un padre de familia y quisiera saber en que universidad seria más viable que mi hijo estudiara su educación superior debería preocuparme, de verdad y en serio, con relación al estado de licenciamiento de las universidades, sean públicas o privadas y de estas en sus dos sabores: asociativas y societarias. Así es que debería ingresar al portal de información conocido como (SIBE)[https://www.sunedu.gob.pe/sibe/] de la (SUNEDU)[https://www.sunedu.gob.pe/] y averiguar el estado del licenciamiento de estas casas de estudios.
->>>>>>> b70d35203042643fd4f65634f892b38820de4cba
 {: style="text-align: justify"}
 
 Pero el hecho es que si ingreso a dicho portal tengo algunos inconvenientes para visualizar, desde mi interés como padre de familia, la información que requiero. Por ejemplo no logro ubicar a las universidades,
@@ -34,15 +30,5 @@ El ejemplo es simple pero efectivo por que implica varias decisiones para el pad
 Estos últimos datos, los costos, son inexistentes en el portal de la información de la SUNEDU. ¿Deberían publicarlos? Bueno, justamente, si definimos que este portal debería dirigirse a los padres de familia, como un usuario/ciudadano, pues sí, caso contrario, que sentido tendría si no atiende la necesidad de algún perfil. 
 {: style="text-align: justify"}
 
-<<<<<<< HEAD
 Finalmente, existe otro portal que se llama [PonteEnCarrera](https://www.ponteencarrera.pe/) que sigue justamente la lógica que hemos descrito. Entonces si este criterio ya fue aplicado en este portal del estado, ¿cuanto esfuerzo costaría agregar la información de la SUNEDU a este portal? Solamente la decisión de hacerlo. 
 {: style="text-align: justify"}
-=======
-Finalmente, 
-{: style="text-align: justify"}
-
-
-
-
-
->>>>>>> b70d35203042643fd4f65634f892b38820de4cba
