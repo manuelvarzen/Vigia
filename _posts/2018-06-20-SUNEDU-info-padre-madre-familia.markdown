@@ -3,7 +3,7 @@ layout: post
 title: "SUNEDU_PonteEnCarrera info para el padre/madre de familia(en modo sueño)"
 date: 2018-06-20
 summary: Situación del licenciamiento de las universidades en Lima Metropolitana
-description: Recomendamos agregar la información del estado del licencimiento de universidades en el portal PonteEnCarrera.Pe
+description: Recomendamos agregar la información del estado del licenciamiento de universidades en el portal PonteEnCarrera.Pe
 image: /Vigia/img/LicenUnivLima2018.JPG
 image-sm: /Vigia/img/LicenUnivLima2018.JPG
 categories:
