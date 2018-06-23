@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ay Perú, como duele la (des)centralización del sector educación"
+title: "Ay, Perú"
 date: 2018-06-22
 summary: La (des)centralización del sector seguirá por muchos años más siendo un sueño, un anhelo, una quimera, una ilusión. 
 description: Visualización de la red del sistema educativo nacional de educación básica regular en Lima Metropolitana: minedu, dre, ugel, iiee
