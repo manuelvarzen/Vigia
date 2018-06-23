@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ay Perú, como duele la (des)centralización de tu sistema educativo de educación básica regular, pero como duele. Por ejemplo Lima"
+title: "Ay Perú, como duele la (des)centralización del sector educación"
 date: 2018-06-22
 summary: La descentralización del sector seguirá por muchos años más siendo un sueño, un anhelo, una quimera, una ilusión. 
 description: Visualización de la red del sistema educativo nacional de educación básica regular: minedu, dre, ugel, iiee
