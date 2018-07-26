@@ -4,8 +4,8 @@ title: "A day of tweets in the Congress of the Republic of Peru"
 date: 2018-07-25
 summary: An approach to the analysis of tweets
 description: Social neetwork graph analysis for a corpus tweets from politics.
-image: /Vigia/img/CongresistasTweets-2016-2021.jpg
-image-sm: /Vigia/img/CongresistasTweets-2016-2021.jpg
+image: /Vigia/img/CongresistasTweets-2016-2021-1.jpg
+image-sm: /Vigia/img/CongresistasTweets-2016-2021-1.jpg
 categories:
   - Politics  
   - Discourse
@@ -20,4 +20,4 @@ But is it possible to manage the political discourse from the sphere of tweets, 
 
 Do we witness an exacerbation of that second orality that Walter Ong explained in his book the "technology of the written word"? Or is it that we should keep present today more than ever the premise of McLuhan, "the medium is language"?{: style="text-align: justify"}
 
-Note: In the image, the green points are the congressmen and the red ones, the users. Among them the relationships are established through tweets, re-tweets, hashtag, among others. {: style="text-align: justify"}
+Note: In the image, the green points are the congressmen and the red ones, the users. Among them the relationships are established through tweets, re-tweets, hashtag, among others. {: style="text-align: justify"}.
