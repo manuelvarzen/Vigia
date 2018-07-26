@@ -4,8 +4,8 @@ title: "A day of tweets in the Congress of the Republic of Peru"
 date: 2018-07-25
 summary: An approach to the analysis of tweets
 description: Social neetwork graph analysis for a corpus tweets from politics.
-image: /Vigia/img/Congresistas-2016-2021.jpg
-image-sm: /Vigia/img/Congresistas-2016-2021.jpg
+image: /Vigia/img/CongresistasTweets-2016-2021.jpg
+image-sm: /Vigia/img/CongresistasTweets-2016-2021.jpg
 categories:
   - Politics  
   - Discourse
