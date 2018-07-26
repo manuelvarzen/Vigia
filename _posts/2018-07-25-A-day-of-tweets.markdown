@@ -12,7 +12,6 @@ categories:
   - SocialMedia
   - NetworkGraph
 ---
-#A day of tweets in the Congress of the Republic of Peru: discourse and actions? 
 
 The tweet seems to be the quickest way to communicate any other issue if it is in the case of the public question the same one that has been entrusted to politicians by citizens.
 
