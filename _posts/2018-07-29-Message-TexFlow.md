@@ -31,4 +31,4 @@ http and https sites, but if you're embedding this into a local web page (file p
 you should add an explicit protocol (https if you're using voyant-tools.org, otherwise
 it depends on this server.
 Feel free to change the height and width values or other styling below: -->
-<iframe style='width: 1020px; height: 620px;' src='//voyant-tools.org/tool/TextualArc/?lang=es&stopList=keywords-13c83ff4cbc0e57ddb8ae730fa9fc270&corpus=2f4cd0a4eb79d33ea30e80d4c5761d49'></iframe>
+<iframe style='width: 720px; height: 480px;' src='//voyant-tools.org/tool/TextualArc/?lang=es&stopList=keywords-13c83ff4cbc0e57ddb8ae730fa9fc270&corpus=2f4cd0a4eb79d33ea30e80d4c5761d49'></iframe>
