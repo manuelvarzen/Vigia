@@ -8,4 +8,4 @@ El análisis de los datos y sus respectivas visualizaciones se realizan con ayud
 The analysis of the data and their respective visualizations are made with the help of different applications. One of them is called LazosNexos which uses the Rfacebook package, among others, of the R project, to extract, transform, analyze and visualize public data of general interest related to the open government policy. This application lacks the function for user registration
 
 --- 
-I´m use Trophy. A blog theme for Jekyll built using HTML, Sass, and JavaScript (no jQuery). External stylesheets and libraries included are Google Fonts, Font Awesome, Normalize.CSS, Rellax, and WOW.js.Trophy is also available in [Ghost (https://github.com/thomasvaeth/trophy-ghost). Trophy is licensed under the MIT License.
+I´m use Trophy. A blog theme for Jekyll built using HTML, Sass, and JavaScript (no jQuery). External stylesheets and libraries included are Google Fonts, Font Awesome, Normalize.CSS, Rellax, and WOW.js.Trophy is also available in [Ghost:](https://github.com/thomasvaeth/trophy-ghost). Trophy is licensed under the MIT License.
