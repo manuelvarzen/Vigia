@@ -14,6 +14,10 @@ categories:
 ---
 #DataVisualization
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="es" dir="ltr">Los desafíos que tenemos por delante son enormes. Hemos dado los primeros pasos y ahora nos disponemos a impulsar, con mayor decisión, los cambios que requiere el país. Te necesito a ti y a los 32 millones de peruanos para emprender este gran reto, porque <a href="https://twitter.com/hashtag/LoQueNosUne?src=hash&amp;ref_src=twsrc%5Etfw">#LoQueNosUne</a> es el Perú.</p>&mdash; Martín Vizcarra (@MartinVizcarraC) <a href="https://twitter.com/MartinVizcarraC/status/1023268274300178433?ref_src=twsrc%5Etfw">July 28, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
 #Flujo de las palabras más relevantes durante el mensaje presidencial por fiestas patrias
 <!--	Exported from Voyant Tools (voyant-tools.org).
 The iframe src attribute below uses a relative protocol to better function with both
