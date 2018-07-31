@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Flujo del mensaje presidencial del 28-7-2018"
+title: "Visualización del Mensaje presidencial: 28-7-2018"
 date: 2018-07-29
 summary: An approach to the analysis of discourse
 description: 
