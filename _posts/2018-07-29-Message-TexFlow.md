@@ -12,7 +12,7 @@ categories:
   - TextMining 
   - Data Visualization
 ---
-Ante una crisis, tenemos la libertad de ver el vaso medio vació o medio lleno. Pero un mensaje, no solo de sustantivos, sino de verbos que llaman a la acción a todos los ciudadanos, a los cotidianos de siempre, que lejos de pertenecer a entidades estatales burocráticas de tamaños (macro o micro) increíbles, quieren descansar de aquellas y de aquellos (representantes políticos y funcionarios públicos) que han aportado (y que aportan) muy poco al país; permite ver el vaso medio lleno. 
+Ante una crisis, tenemos la libertad de ver el vaso medio vacio o medio lleno. Pero un mensaje, no solo de sustantivos, sino de verbos que llaman a la acción a todos los ciudadanos, a los cotidianos de siempre, que lejos de pertenecer a entidades estatales burocráticas de tamaños (macro o micro) increíbles, quieren descansar de aquellas y de aquellos (representantes políticos y funcionarios públicos) que han aportado (y que aportan) muy poco al país; permite ver el vaso medio lleno. 
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="es" dir="ltr">Los desafíos que tenemos por delante son enormes. Hemos dado los primeros pasos y ahora nos disponemos a impulsar, con mayor decisión, los cambios que requiere el país. Te necesito a ti y a los 32 millones de peruanos para emprender este gran reto, porque <a href="https://twitter.com/hashtag/LoQueNosUne?src=hash&amp;ref_src=twsrc%5Etfw">#LoQueNosUne</a> es el Perú.</p>&mdash; Martín Vizcarra (@MartinVizcarraC) <a href="https://twitter.com/MartinVizcarraC/status/1023268274300178433?ref_src=twsrc%5Etfw">July 28, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
