@@ -4,8 +4,8 @@ title: "28-7-2018: Visualizando el mensaje presidencial"
 date: 2018-07-29
 summary: An approach to the analysis of discourse
 description: 
-image: /Vigia/img/
-image-sm: /Vigia/img/
+image: /Vigia/img/pdte_Martin41.jpg
+image-sm: /Vigia/img/pdte_Martin41.jpg
 categories:
   - Politics  
   - Discourse
