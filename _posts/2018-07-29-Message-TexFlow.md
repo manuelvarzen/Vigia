@@ -20,7 +20,15 @@ Ante una crisis, un mensaje, pero no solo de sustantivos sino de verbos que llam
 
 --- 
 ### Flujo de las palabras más relevantes en el discurso del presidente Martín Vizcarra 
-Según nuestro análisis, en el mensaje presidencial existieron 5 palabras que destacaron por su frecuencia de uso. Estas fueron: |país|millones|nacional|corrupción|sistema|. 
+Según el análisis que nos facilita el aplicativo Voyant-Tools, en el mensaje presidencial existieron 5 palabras que destacaron por su frecuencia de uso. Estas fueron: |país|millones|nacional|corrupción|sistema|. 
+
+<!--	Exported from Voyant Tools (voyant-tools.org).
+The iframe src attribute below uses a relative protocol to better function with both
+http and https sites, but if you're embedding this into a local web page (file protocol)
+you should add an explicit protocol (https if you're using voyant-tools.org, otherwise
+it depends on this server.
+Feel free to change the height and width values or other styling below: -->
+<iframe style='width: 720px; height: 400px;' src='//voyant-tools.org/tool/StreamGraph/?lang=es&stopList=keywords-13c83ff4cbc0e57ddb8ae730fa9fc270&bins=10&docId=a5cca7ef7b39ab705cfa26e6cb1f92d6&corpus=2f4cd0a4eb79d33ea30e80d4c5761d49'></iframe>
 
 Como observamos en la imagen la palabra país se mantuvo como un flujo continuo a lo largo de los segmento del mensaje constituyendo un eje sobre la cual descansaron otras dos palabras: nacional y sistema. 
 
@@ -33,14 +41,6 @@ Este diseño no fue gratuito. Definitivamente fue pensando con cuidado y lo que 
 Otro punto a descatar es la referencia a la palabra millones, que en este contexto, esta referido al prespuesto que se requiere para hacer todas las obras que fueron anunciadas el 28 de julio. 
 
 Como se observa es posible identificar como aparece en magnitud para luego desvanecerse por complejo con lo que estamos frente a la concepción de que el dinero, aunque bastante necesario, no es suficiente. 
-
-<!--	Exported from Voyant Tools (voyant-tools.org).
-The iframe src attribute below uses a relative protocol to better function with both
-http and https sites, but if you're embedding this into a local web page (file protocol)
-you should add an explicit protocol (https if you're using voyant-tools.org, otherwise
-it depends on this server.
-Feel free to change the height and width values or other styling below: -->
-<iframe style='width: 720px; height: 400px;' src='//voyant-tools.org/tool/StreamGraph/?lang=es&stopList=keywords-13c83ff4cbc0e57ddb8ae730fa9fc270&bins=10&docId=a5cca7ef7b39ab705cfa26e6cb1f92d6&corpus=2f4cd0a4eb79d33ea30e80d4c5761d49'></iframe>
 
 --- 
 ### Transición de las palabras en el texto del mensaje presidencial. 
