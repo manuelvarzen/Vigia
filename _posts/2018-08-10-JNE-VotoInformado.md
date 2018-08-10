@@ -13,7 +13,8 @@ categories:
   - Open Data 
 ---
 ## Por siempre 
-Cuando algún servicio del Estado (digital o no) deja de funcionar o lo hace de manera incompleta lo que sucedes, como es obvio, es que el ciudadano tiene que asumir varios costos y en su defecto reparar, si le es posible, el trabajo que algunos funcionarios y colaboradores de alguna institución dejaron de hacer o hicieron obviando las necesidades del usuario.{: style="text-align: justify"}
+{:style="text-align: justify"}
+Cuando algún servicio del Estado (digital o no) deja de funcionar o lo hace de manera incompleta lo que sucedes, como es obvio, es que el ciudadano tiene que asumir varios costos y en su defecto reparar, si le es posible, el trabajo que algunos funcionarios y colaboradores de alguna institución dejaron de hacer o hicieron obviando las necesidades del usuario.
 
 Si la población tendría que tener acceso a la información consolidada (que seria el resumen del plan) a través de una plataforma web como una orientación de la dirección institucional, 
 ¿por qué dejar incompleta la información de algunos de los planes de los partidos políticos? ¿Por qué aregar más trabajo al ciudadano?{: style="text-align: justify"}
