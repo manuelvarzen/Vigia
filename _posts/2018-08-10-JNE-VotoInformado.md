@@ -21,17 +21,13 @@ En la imagen es posible apreciar que mientras en la plataforma del JNE, [Voto In
 
 Pero cuando revisamos los planes en formato de PDF, publicados en esta otra:[Plataforma Electoral] (https://plataformaelectoral.jne.gob.pe/ListaDeCandidatos/Index) advertimos que si existen propuestas de ambos candidatos para aquella categoría.
 
-![Comparación web vs pdf]({{ "/Vigia/img/JNE_VotoInformado_Comparacion.jpg" | absolute_url }})
+![Comparación web vs pdf]({{ "/img/JNE_VotoInformado_Comparacion.jpg" | absolute_url }})
 
 ¿Por qué suceden estas situaciones? ¿Por qué tenemos dos plataformas bajo el mismo subdominio pero que comparten información similar? ¿Por qué es tan dificil consolidar la información y mantener un solo punto de acceso con datos abiertos bajo formatos que pueden leer las personas (y las máquinas)? ¿Por qué Dios (si es que existe alguno)? ¿por qué? ¿Por qué es tan dificil prestar un servicio digital desde el Estado que sea completo y este libre de errores? (Al menos de los más comúnes).
 
-¿Por qué al amparo del decreto Decreto Supremo que crea el Portal de software Público Peruano y establece disposiciones adicionales sobre el software Público Peruano contemplada en el Decreto Supremo Nº 051-2018-PCM http://www.softwarepublico.gob.pe/index.php/es/ no ha sido liberado aún el código fuente de estos dos portales? 
+¿Por qué al amparo del decreto Decreto Supremo Nº 051-2018-PCM que creó el [Portal de software Público Peruano] (http://www.softwarepublico.gob.pe/index.php/es/) y estableció disposiciones adicionales sobre el software de gestió pública no ha sido liberado aún el código fuente de estos dos portales? 
 
 Recordemos que el JNE ha realizado en dos o tres oportunidades eventos llamados Hackathons, a modo de [concursos de prototipos] (https://www.facebook.com/notes/manuelvar-vargas/hackathon-o-concurso-de-prototipos-o-pueden-coexistir-ambas-definiciones-al-mism/1537810309574197/) para desarrollar aplicaciones informáticas. De hecho votoInformado fue un prototipo que gano uno de estos eventos (Desde mi punto de vista mal llamados Hackathons). 
-
-Entonces ¿Por qué al amparo del decreto Decreto Supremo Nº 051-2018-PCM que crea el Portal de [Software Público Peruano](http://www.softwarepublico.gob.pe/index.php/es/) y establece disposiciones adicionales sobre el software Público Peruano no ha sido liberado aún el código fuente de estos dos portales? 
-
-Recordemos que el JNE ha realizado en dos o tres oportunidades eventos llamados Hackathons, a modo de concursos de prototipo, para desarrollar aplicaciones informáticas. De hecho la propuesta de VotoInformado gano uno de estos eventos. (Desde mi punto de vista mal llamados Hackathons). 
 
 ## Para recordar por siempre  
 Por otra parte, ¿es posible hablar de gobierno abierto cuando las instituciones del Estado no publican su código fuente o usan aplicaciones que no son de fuente abierta? --Este tema va generar cierta discusión, próximamente.
