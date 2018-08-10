@@ -21,7 +21,7 @@ En la imagen es posible apreciar que mientras en la plataforma del JNE, [Voto In
 
 Pero cuando revisamos los planes en formato de PDF (publicados en esta otra:[Plataforma Electoral] (https://plataformaelectoral.jne.gob.pe/ListaDeCandidatos/Index) advertimos que si existen propuestas de ambos candidatos para aquella categoría.{: style="text-align: justify"}
 
-(image-sm: /Vigia/img/JNE_VotoInformado_Comparacion.jpg){:class="img-responsive"}{:height="700px" width="400px"}
+(image:/Vigia/img/JNE_VotoInformado_Comparacion.jpg){:class="img-responsive"}{:height="700px" width="400px"}
 
 ¿Por qué suceden estas situaciones? ¿Por qué tenemos dos plataformas bajo el mismo subdominio pero que comparten información similar? ¿Por qué es tan dificil consolidar la información y mantener un solo punto de acceso con datos abiertos bajo formatos que pueden leer las personas (y las máquinas)? ¿Por qué Dios (si es que existe alguno)? ¿por qué? ¿Por qué es tan dificil prestar un servicio digital desde el Estado que sea completo y este libre de errores? (Al menos de los más comúnes).
 
