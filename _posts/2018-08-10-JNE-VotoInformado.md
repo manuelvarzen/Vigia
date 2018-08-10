@@ -35,7 +35,7 @@ Por otra parte, ¿es posible hablar de gobierno abierto cuando las instituciones
 De toda la oferta de aplicaciones que conozco destinadas al gobierno abierto, todas ellas tienen un repositorio de su código fuente en alguna plataforma de control de versiones como puede ser por ejemplo [gitHub](https://www.github.org) -- que fue [adquirida](https://news.microsoft.com/2018/06/04/microsoft-to-acquire-github-for-7-5-billion/) por Microsoft hace unas semanas atrás -- pero que aloja código que comparte una institución oficial. Un caso de ejemplo es la [NASA](https://code.nasa.gov/).  
 
 Para un recordaris del concepto de gobierno abierto es importante volver a revisar esta fuente: 
-The White House, P. B. O. (s. f.). Open Government Initiative | The White House. Recuperado 25 de abril de 2017, a partir de [https://obamawhitehouse.archives.gov/](openhttps://obamawhitehouse.archives.gov/open)
+The White House, P. B. O. (s. f.). Open Government Initiative | The White House. Recuperado 25 de abril de 2017, a partir de [https://obamawhitehouse.archives.gov/open](https://obamawhitehouse.archives.gov/open)
 
 ##### Declaración: 
 El autor de esta nota no tiene (ni desea) afiliación política partidaria alguna, aunque obviamente tiene su corazoncito (como todos). Su trabajo (ciudadano y voluntario) se focaliza en revisar el funcionamiento de los servicios digitales del Estado (peruano). 
