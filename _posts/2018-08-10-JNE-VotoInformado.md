@@ -25,7 +25,7 @@ Pero cuando revisamos los planes (algunos planes son solo un resumen en un forma
 
 ¿Por qué suceden estas situaciones? ¿Por qué tenemos dos plataformas bajo el mismo subdominio pero que comparten información similar? ¿Por qué es tan dificil consolidar la información y mantener un solo punto de acceso con datos abiertos bajo formatos que pueden leer las personas (y las máquinas)? ¿Por qué Dios (si es que existe alguno)? ¿por qué? ¿Por qué es tan dificil prestar un servicio digital desde el Estado que sea completo y este libre de errores? (Al menos de los más comúnes).
 
-¿Por qué al amparo del decreto Decreto Supremo Nº 051-2018-PCM que creó el [Portal de software Público Peruano] (http://www.softwarepublico.gob.pe/index.php/es/) y estableció disposiciones adicionales sobre el software de gestió pública no ha sido liberado aún el código fuente de estos dos portales? 
+¿Por qué al amparo del decreto Decreto Supremo Nº 051-2018-PCM que creó el [Portal de software Público Peruano](http://www.softwarepublico.gob.pe/index.php/es/) y estableció disposiciones adicionales sobre el software de gestió pública no ha sido liberado aún el código fuente de estos dos portales? 
 
 Recordemos que el JNE ha realizado en dos o tres oportunidades eventos llamados Hackathons, a modo de [concursos de prototipos](https://www.facebook.com/notes/manuelvar-vargas/hackathon-o-concurso-de-prototipos-o-pueden-coexistir-ambas-definiciones-al-mism/1537810309574197/) para desarrollar aplicaciones informáticas. De hecho votoInformado fue un prototipo que ganó uno de estos eventos (Desde mi punto de vista mal llamados Hackathons). 
 
