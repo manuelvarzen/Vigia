@@ -19,7 +19,7 @@ Si la población tendría que tener acceso a la información consolidada (que se
 
 En la imagen es posible apreciar que mientras en la plataforma del JNE, [Voto Informado](https://votoinformado.jne.gob.pe/voto/Compara) que al comparar dos planes de gobierno para la provincia de Lima nos encontramos que en la dimensión social un candidato si presenta propuesta mientras que otro no.
 
-Pero cuando revisamos los planes en formato de PDF (publicados en esta otra:[Plataforma Electoral] (https://plataformaelectoral.jne.gob.pe/ListaDeCandidatos/Index) advertimos que si existen propuestas de ambos candidatos para aquella categoría.{: style="text-align: justify"}
+Pero cuando revisamos los planes en formato de PDF, publicados en esta otra:[Plataforma Electoral] (https://plataformaelectoral.jne.gob.pe/ListaDeCandidatos/Index) advertimos que si existen propuestas de ambos candidatos para aquella categoría.
 
 (image:/Vigia/img/JNE_VotoInformado_Comparacion.jpg){:class="img-responsive"}{:height="700px" width="400px"}
 
