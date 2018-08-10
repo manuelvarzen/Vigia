@@ -41,4 +41,4 @@ Para un recordaris del concepto de gobierno abierto es importante volver a revis
 The White House, P. B. O. (s. f.). Open Government Initiative | The White House. Recuperado 25 de abril de 2017, a partir de [https://obamawhitehouse.archives.gov/open](https://obamawhitehouse.archives.gov/open)
 
 ##### Declaración: 
-El autor de esta nota no tiene (ni desea) afiliación política partidaria alguna, aunque obviamente tiene su corazoncito (como todos). Su trabajo (ciudadano y voluntario) se focaliza en revisar el funcionamiento de los servicios digitales del Estado (peruano).
+El autor de esta nota no tiene (ni desea) afiliación política partidaria alguna, aunque obviamente tiene su corazoncito (como todos). Su trabajo (ciudadano y voluntario) se focaliza en revisar el funcionamiento de los servicios digitales del Estado (peruano). 
