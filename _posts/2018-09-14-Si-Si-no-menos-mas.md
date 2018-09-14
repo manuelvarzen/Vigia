@@ -31,4 +31,4 @@ Así que la siguientes organizaciones políticas hicieron su tarea: Vamos Perú,
 
 Pero ¿tiene sentido tener una plantilla para recopilar la información de los planes de gobierno de las organizaciones políticas? Al parecer pueden existir sentimientos encontrados. Por un lado, nuestro breve análisis iindica quien cumplió y quien no cumplió con la tarea, con el requisito, con la solicitud; pero, sin embargo, en el otro extremo es imposible encontrar una diferencia en sus estructuras discursivas situación que también coloca en aprietos a los equipos de comunicación de los partidos. 
 
-En todo caso, al menos, si algún candidato cumple con entregar el documento ajustado a la plantilla al menos tenemos la certeza que puede cumplir tareas más complejas. Como decia de manera reiterativa un ex-jefe: "manuel, el diablo esta en los detalles". 
+En todo caso, al menos, si algún candidato cumple con entregar el documento ajustado a la plantilla podríamos tener la sospecha (pero aún lejos la confianza y la certeza) que cumpliría tareas más complejas. Como decía de manera reiterada, por toda la oficina, un ex-jefe: "Manuel, el diablo esta en los detalles". 
