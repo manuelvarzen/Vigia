@@ -13,12 +13,11 @@ categories:
   - Open Data 
 ---
 ### 
-Deberíamos ir a votar confiados en que los candidatos piensan en nosotros, los ciudadanos, o tenemos más indicios para desconfiar de sus discursos. Las evidencias dejadas en sus textos lo confirman que verdaderamente tendríamos que desconfiar o en todo caso adoptar todas las precauciones necesarias y extremos, al menos, claro esta, para alejarnos de todos aquellos que no tienen, para empezar una buena redacción, asumiendo que ellos han escrito (en el mejor de los casos) sus respectivos planes de gobierno.  
+¿Deberíamos ir a votar confiados en que los candidatos piensan en nosotros, los ciudadanos, o tenemos más indicios para desconfiar de sus discursos? Las evidencias dejadas en sus textos confirman una respuesta negativa a esta pregunta. En este post agregaremos más leña al fuego para desconfiar, con cierta certeza, de varios de ellos. 
 
-Un primer punto de análisis es considerar si el ciudadano es el centro de la atención (o debería serlo) de los candidadtos al sillón municipal. Sí esto es así ¿por qué entonces sus textos no reflejan ese interés genuino de ordenar la ciudad en función de las necesidades de los ciudadanos? De hecho, la visualización de los textos de los 21 planes que sirve de entrada a este post indica que existe pocas referencias en la mayoría de planes con relación a las palabras "cidadano" y "ciudadanos". 
+Así que en este breve análisis exploraremos la relación existente entre los adverbios "si", como condicional; "sí", de afirmación; "no", de negación y; "más" y "menos", de comparación; en los planes de gobierno de los candidatos a la alcaldía provincial de Lima. (Todos entendemos que es Lima Metropolitana, la capital del Perú, pero no deja de ser una provincia con sus respectivos distritos). 
 
-Otro aspecto importante ha considerar en este análisis es la relación de Sí Si usadas en los textos acompañoado del No. COm sabemos si de condicional y si de afirmación y No. Consideramos adémas en las comuniciones escritas o habladas es mejor evitar el uso del no. Si bien recordemos la esmerada atención que tienen todas las personas que trabajan en nu call center por nunca dar un no como respuesta. Creo qeu en este aspecto aplicar ese conosejo. La cantidad de "no" empelado en todos losa lesn de es impresionante. Esto nos condice a reflexionar la situación de pesimismo quen os odemos encontrar enuan siuación.... 
-
+En la visualización observamos que "no" tiene cierta correlación con "más" en todos los documentos y eso indicaría que estos documentos aplicaron una plantilla para ordenar su contenidos. Y fue así debido a que el Jurado Nacional de Elecciones entregó una plantilla para ajustar los contenidos. Así que todo se volvio "causa, efecto" (al clásico marco lógico) como si la sociedad peruana en particular pudiera ser anticipada con cierta previsión. 
 
 <!--	Exported from Voyant Tools (voyant-tools.org).
 The iframe src attribute below uses a relative protocol to better function with both
@@ -27,3 +26,9 @@ you should add an explicit protocol (https if you're using voyant-tools.org, oth
 it depends on this server.
 Feel free to change the height and width values or other styling below: -->
 <iframe style='width: 935px; height: 470px;' src='https://voyant-tools.org/tool/Trends/?stopList=keywords-fc06c8bf8f24a00f1ef1b096dbbd28ba&query=no&query=si&query=s%C3%AD&query=menos&query=m%C3%A1s&mode=&corpus=a27e705d8e59d19e32af66027b5ac8cf'></iframe>
+
+Así que la siguientes organizaciones políticas hicieron su tarea: Vamos Perú, Unidos por el Perú, Todos por el Perú; Somos Perú, Solidaridad Nacional; Partido Popular Cristiano; Juntos por el Perú; y finalmnete, Avanza País. Los otros planes requerirán (para las próximas elecciones, si es que volvieran a postular) revisar con mayor rigurosidad sus construcciones discursivas para mejorar radicalmente sus propuestas, al menos, en sus documentos impresos. 
+
+Pero ¿tiene sentido tener una plantilla para recopilar la información de los planes de gobierno de las organizaciones políticas? Al parecer pueden existir sentimientos encontrados. Por un lado, nuestro breve análisis iindica quien cumplió y quien no cumplió con la tarea, con el requisito, con la solicitud; pero, sin embargo, en el otro extremo es imposible encontrar una diferencia en sus estructuras discursivas situación que también coloca en aprietos a los equipos de comunicación de los partidos. 
+
+En todo caso, al menos, si algún candidato cumple con entregar el documento ajustado a la plantilla al menos tenemos la certeza que puede cumplir tareas más complejas. Como decia de manera reiterativa un ex-jefe: "manuel, el diablo esta en los detalles". 
