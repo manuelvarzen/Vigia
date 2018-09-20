@@ -21,13 +21,9 @@ Pero como así, entonces, es que la retórica de un discurso puede convencernos 
 ### Flujo de las palabras más relevantes en el discurso del presidente Martín Vizcarra 
 Según el análisis que nos facilita el aplicativo Voyant-Tools, en el mensaje presidencial existieron 5 palabras que destacaron por su frecuencia de uso. Estas fueron: |país|millones|nacional|corrupción|sistema|. 
 
-<!--	Exported from Voyant Tools (voyant-tools.org).
-The iframe src attribute below uses a relative protocol to better function with both
-http and https sites, but if you're embedding this into a local web page (file protocol)
-you should add an explicit protocol (https if you're using voyant-tools.org, otherwise
-it depends on this server.
-Feel free to change the height and width values or other styling below: -->
-<iframe style='width: 1396px; height: 491px;' src='//voyant-tools.org/tool/StreamGraph/?stopList=keywords-f2c5515edc47d341db84bd819834e051&bins=10&docId=d63c03458a4eaa360ffc0b3e434399f8&corpus=598c63916347606d484b9c47d4e33729'></iframe>
+
+/Vigia/img/mensaje_pdte_Jul2018-1.jpg
+
 
 Como observamos en la imagen la palabra país se mantuvo como un flujo continuo a lo largo de los segmentos del mensaje constituyendo un eje sobre la cual descansaron otras dos palabras: nacional y sistema. 
 
@@ -46,13 +42,8 @@ Así es posible identificar como aparece en magnitud para luego desvanecerse por
 ### Transición de las palabras en el texto del mensaje presidencial. 
 Una forma dinámica de identificar el flujo de aquellas palabras es a través de esta otra visualización basada en el Arco de Texto. Nos facilita la identificación de las palabras vecinas que acompañan a cada una de las anteriores y de esta forma veremos como se construye la secuencia de los mensajes que tienen un llamado a la acción por parte de los ciudadanos. 
 
-<!--	Exported from Voyant Tools (voyant-tools.org).
-The iframe src attribute below uses a relative protocol to better function with both
-http and https sites, but if you're embedding this into a local web page (file protocol)
-you should add an explicit protocol (https if you're using voyant-tools.org, otherwise
-it depends on this server.
-Feel free to change the height and width values or other styling below: -->
-<iframe style='width: 1830px; height: 803px;' src='//voyant-tools.org/tool/TextualArc/?stopList=keywords-f2c5515edc47d341db84bd819834e051&corpus=598c63916347606d484b9c47d4e33729'></iframe>
+/Vigia/img/mensaje_pdte_Jul2018-2.jpg
+
 
 ### Finalmente... 
 ... solo quedara llenar el vaso en los próximos meses con la propuesta más audaz que hemos escuchado desde hace varías décadas: la no reelección de los congresistas.
