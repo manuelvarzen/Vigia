@@ -41,7 +41,13 @@ Así es posible identificar como aparece en magnitud para luego desvanecerse por
 Una forma dinámica de identificar el flujo de aquellas palabras es a través de esta otra visualización basada en el Arco de Texto. Nos facilita la identificación de las palabras vecinas que acompañan a cada una de las anteriores y de esta forma veremos como se construye la secuencia de los mensajes que tienen un llamado a la acción por parte de los ciudadanos. 
 
 
-![Visualización de la transición de palabras más usadas](/img/mensaje_pdte_Jul2018-2.jpg){:class="img-responsive"}
+<!--	Exported from Voyant Tools (voyant-tools.org).
+The iframe src attribute below uses a relative protocol to better function with both
+http and https sites, but if you're embedding this into a local web page (file protocol)
+you should add an explicit protocol (https if you're using voyant-tools.org, otherwise
+it depends on this server.
+Feel free to change the height and width values or other styling below: -->
+<iframe style='width: 692px; height: 563px;' src='//voyant-tools.org/tool/TextualArc/?stopList=keywords-f2c5515edc47d341db84bd819834e051&corpus=598c63916347606d484b9c47d4e33729'></iframe>
 
 
 ### Finalmente... 
