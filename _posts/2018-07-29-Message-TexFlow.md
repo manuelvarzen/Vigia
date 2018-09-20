@@ -24,6 +24,13 @@ Pero como así, entonces, es que la retórica de un discurso puede convencernos 
 Según el análisis que nos facilita el aplicativo Voyant-Tools, en el mensaje presidencial existieron 5 palabras que destacaron por su frecuencia de uso. Estas fueron: |país|millones|nacional|corrupción|sistema|. 
 
 
+<!--	Exported from Voyant Tools (voyant-tools.org).
+The iframe src attribute below uses a relative protocol to better function with both
+http and https sites, but if you're embedding this into a local web page (file protocol)
+you should add an explicit protocol (https if you're using voyant-tools.org, otherwise
+it depends on this server. Feel free to change the height and width values or other styling below: -->
+<iframe style='width: 1069px; height: 491px;' src='//voyant-tools.org/tool/StreamGraph/?stopList=keywords-94b0df73f9c8b1d27ec5c7c2df0d28c2&bins=10&docId=d63c03458a4eaa360ffc0b3e434399f8&corpus=598c63916347606d484b9c47d4e33729'></iframe>
+
 
 Como observamos en la imagen la palabra país se mantuvo como un flujo continuo a lo largo de los segmentos del mensaje constituyendo un eje sobre la cual descansaron otras dos palabras: nacional y sistema. 
 
