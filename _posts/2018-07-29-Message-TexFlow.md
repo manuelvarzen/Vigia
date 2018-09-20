@@ -27,7 +27,7 @@ http and https sites, but if you're embedding this into a local web page (file p
 you should add an explicit protocol (https if you're using voyant-tools.org, otherwise
 it depends on this server.
 Feel free to change the height and width values or other styling below: -->
-<iframe style='width: 720px; height: 400px;' src='//voyant-tools.org/tool/StreamGraph/?lang=es&stopList=keywords-13c83ff4cbc0e57ddb8ae730fa9fc270&bins=10&docId=a5cca7ef7b39ab705cfa26e6cb1f92d6&corpus=2f4cd0a4eb79d33ea30e80d4c5761d49'></iframe>
+<iframe style='width: 1396px; height: 491px;' src='//voyant-tools.org/tool/StreamGraph/?stopList=keywords-f2c5515edc47d341db84bd819834e051&bins=10&docId=d63c03458a4eaa360ffc0b3e434399f8&corpus=598c63916347606d484b9c47d4e33729'></iframe>
 
 Como observamos en la imagen la palabra país se mantuvo como un flujo continuo a lo largo de los segmentos del mensaje constituyendo un eje sobre la cual descansaron otras dos palabras: nacional y sistema. 
 
@@ -52,7 +52,7 @@ http and https sites, but if you're embedding this into a local web page (file p
 you should add an explicit protocol (https if you're using voyant-tools.org, otherwise
 it depends on this server.
 Feel free to change the height and width values or other styling below: -->
-<iframe style='width: 720px; height: 400px;' src='//voyant-tools.org/tool/TextualArc/?lang=es&stopList=keywords-13c83ff4cbc0e57ddb8ae730fa9fc270&corpus=2f4cd0a4eb79d33ea30e80d4c5761d49'></iframe>
+<iframe style='width: 1830px; height: 803px;' src='//voyant-tools.org/tool/TextualArc/?stopList=keywords-f2c5515edc47d341db84bd819834e051&corpus=598c63916347606d484b9c47d4e33729'></iframe>
 
 ### Finalmente... 
 ... solo quedara llenar el vaso en los próximos meses con la propuesta más audaz que hemos escuchado desde hace varías décadas: la no reelección de los congresistas.
