@@ -21,7 +21,7 @@ Pero como así, entonces, es que la retórica de un discurso puede convencernos 
 ### Flujo de las palabras más relevantes en el discurso del presidente Martín Vizcarra 
 Según el análisis que nos facilita el aplicativo Voyant-Tools, en el mensaje presidencial existieron 5 palabras que destacaron por su frecuencia de uso. Estas fueron: |país|millones|nacional|corrupción|sistema|. 
 
-![Logo Jekyll](/img/mensaje_pdte_Jul2018-2.jpg)
+![Logo Jekyll]({{site.url}}/img/mensaje_pdte_Jul2018-2.jpg )
 
 Como observamos en la imagen la palabra país se mantuvo como un flujo continuo a lo largo de los segmentos del mensaje constituyendo un eje sobre la cual descansaron otras dos palabras: nacional y sistema. 
 
