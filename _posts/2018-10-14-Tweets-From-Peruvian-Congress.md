@@ -16,6 +16,6 @@ categories:
 
 ![Frecuencia de tweets publicados por los congresistas de Fuerza Popular]({{"/img/congressman_political_group_Fuerza_Popular.png" | absolute_url }})
 
-
+({{"/img/JNE_VotoInformado_Comparacion.jpg" | absolute_url }})
 
 
