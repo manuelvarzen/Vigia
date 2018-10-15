@@ -14,13 +14,15 @@ categories:
 ---
 ### En esta imagen
 
+![Comparación web vs pdf]({{"/img/JNE_VotoInformado_Comparacion.jpg" | absolute_url }})
 
-({{"/img/PeruvianCongressManHashTags.png" | absolute_url }})
+![Comparación web vs pdf]({{"/img/PeruvianCongressManHashTags.png" | absolute_url }})
 
 
 ### En esta otra 
 
-({{"/img/congressman_political_group_Fuerza_Popular.png" | absolute_url }})
+
+![Comparación web vs pdf]({{"/img/congressman_political_group_Fuerza_Popular.png" | absolute_url }})
 
 
 
