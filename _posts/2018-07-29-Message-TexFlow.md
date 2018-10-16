@@ -3,7 +3,7 @@ layout: post
 title: "28-7-2018: Visualizando el mensaje presidencial"
 date: 2018-07-29
 summary: An approach to the analysis of discourse
-description: 
+description: Visualización del texto correspondiente al mensaje presidencial del 28 de Julio de 2018. 
 image: /Vigia/img/pdte_Martin41.jpg
 image-sm: /Vigia/img/pdte_Martin41.jpg
 categories:

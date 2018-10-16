@@ -10,6 +10,8 @@ google_analytics: UA-127545573-1
 # SEO settings
 title: Vigía!, Open Data for the Citizen Government
 description: Another blog for promote open data for the citizen goverment
+
+
 #Dont change
 url: "https://manuelvarzen.github.io/"
 #Dont change
@@ -31,6 +33,7 @@ social:
 
 # Build settings
 markdown: kramdown
+url: "https://manuelvarzen.github.io/Vigia"
 plugins:
   - jekyll-paginate
   - jekyll-sitemap

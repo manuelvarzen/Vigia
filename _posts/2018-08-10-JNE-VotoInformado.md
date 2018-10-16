@@ -3,7 +3,7 @@ layout: post
 title: "Comparando planes, JNE: ¿VotoInformado? (post 1)"
 date: 2018-07-29
 summary: An approach to the analysis of discourse
-description: 
+description: Visualización de los errores de algunas aplicaciones del Estado Peruanos, en este caso, del Jurado Nacional de Elecciones (JNE)
 image: /Vigia/img/JNE_VotoInformado_Comparacion.jpg
 image-sm: /Vigia/img/JNE_VotoInformado_Comparacion.jpg
 categories:

@@ -6,7 +6,7 @@ categories:
   - Public information
   - Decisions
   - Open Data
-description:
+description: Es importante anotar como en una empresa trabajan más personas sin mayor educación que el nivel secundario.
 image: /Vigia/img/QlikSense_Trabajadores.png
 image-sm: /Vigia/img/QlikSense_Trabajadores.png
 ---
