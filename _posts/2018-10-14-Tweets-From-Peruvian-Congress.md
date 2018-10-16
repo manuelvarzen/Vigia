@@ -1,9 +1,10 @@
 ---
 layout: post
+author: Manuel Vargas Alegría
 title: "#HashTags desde el Congreso de la República del Perú"
 date: 2018-10-14
 summary: An approach to the analysis of political discourse
-description: 
+description: Public resources are spent to benefit a single person by the members of the political group Fuerza Popular.
 image: /Vigia/img/PeruvianCongressManHashTags.png
 image-sm: /Vigia/img/PeruvianCongressManHashTags.png
 categories:
