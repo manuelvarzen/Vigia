@@ -1,121 +1,113 @@
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="{{ card.meta }}" />
-  <meta name="keywords" content="{{ card.keywords }}" />
-  <meta name="robots" content="index, follow">
-  <meta name="author" content="{{ card.author }}" />
-  <meta name="author" content="{{ site.name }}">
-  <meta name="description" content="{{ site.description }}">
+﻿<head profile="http://www.w3.org/1999/xhtml/vocab">
+    <title>{% if page.title %}{{ page.title | escape }} | {{ site.title }}{% else %}{{ site.title | escape }}{% endif %}</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="{{ card.meta }}" />
+    <meta name="keywords" content="{{ card.keywords }}" />
+    <meta name="robots" content="index, follow">
+    <meta property="dc:creator" content="{{ card.author }}" />
+    <meta property="dc:author" content="{{ site.name }}">
+    <meta property="dc:description" content="{{ site.description }}">
 
- <title>{% if page.title %}{{ page.title | escape }} | {{ site.title }}{% else %}{{ site.title | escape }}{% endif %}</title>
-    
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inconsolata|Lora|Space+Mono:700">
-  
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-  
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/4.2.0/normalize.min.css">
-  
-  <link rel="stylesheet" href="{{ '/assets/css/main.css' | prepend: site.baseurl }}">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inconsolata|Lora|Space+Mono:700">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/4.2.0/normalize.min.css">
+    <link rel="stylesheet" href="{{ '/assets/css/main.css' | prepend: site.baseurl }}">
+    <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ '/feed.xml' | prepend: site.baseurl | prepend: site.url }}">
+    <link rel="canonical" href="{{ page.url | replace: 'index.html', '' | prepend: site.baseurl | prepend: site.url }}">
+    <!-- Google Card -->
+    <meta itemprop="description" content="{{ card.description }}" />
+    <meta itemprop="image" content="{{ card.image }}" />
 
-  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ '/feed.xml' | prepend: site.baseurl | prepend: site.url }}">
-  
-  <link rel="canonical" href="{{ page.url | replace: 'index.html', '' | prepend: site.baseurl | prepend: site.url }}">
-
-<!-- Google Card -->
-<meta itemprop="description" content="{{ card.description }}" />
-<meta itemprop="image" content="{{ card.image }}" />
-
-<!-- Facebook Card -->
-<meta property="og:title"
-    content="{% if page.title %}
+    <!-- Facebook Card -->
+    <meta property="og:title"
+          content="{% if page.title %}
       {{ page.title | strip_html | strip_newlines | truncate: 200 }}
     {% else %}
       {{ site.title }}
     {% endif %}">
 
-<meta property="og:description"
-    content="{% if page.excerpt %}
+    <meta property="og:description"
+          content="{% if page.excerpt %}
         {{ page.excerpt | strip_html | strip_newlines | truncate: 200 }}
       {% else %}
         {{ site.description }}
       {% endif %}">
 
-<meta property="og:url"
-    content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" />
-<meta property="og:site_name" content="{{ site.title }}" />
-<meta property="og:locale" content="en_US" />
-<meta property="og:locale" content="es_ES" />
+    <meta property="og:url"
+          content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" />
+    <meta property="og:site_name" content="{{ site.title }}" />
+    <meta property="og:locale" content="en_US" />
+    <meta property="og:locale" content="es_ES" />
 
-<meta name="twitter:site" content="@Vigia" />
-<meta name="twitter:description" content="{{ page.content | strip_html | xml_escape | truncate: 200 }}"/>
+    <meta name="twitter:site" content="@Vigia" />
+    <meta name="twitter:description" content="{{ page.content | strip_html | xml_escape | truncate: 200 }}" />
 
-{% if page.title %}
-  <!-- Article specific OG data -->
-  <!-- The OG:Type dictates a number of other tags on posts. -->
-  <meta property="og:type" content="website" />
-  <meta property="published_time" content="{{page.date}}" />
+    {% if page.title %}
+    <!-- Article specific OG data -->
+    <!-- The OG:Type dictates a number of other tags on posts. -->
+    <meta property="og:type" content="website" />
+    <meta property="published_time" content="{{page.date}}" />
 
-  <!-- page.modified isn't a natural Jekyll property, but it can be added. -->
-  {% if page.summary %}
-  <meta name="twitter:description" content="{{ page.meta_description }}">
-  {% else %}
-  <meta name="twitter:description" content="{{ page.content | strip_html | xml_escape
-      | truncate: 200 }}">  
-  <!-- <meta property="modified_time" content="{{page.modified}}" /> -->
-  {% endif %}
+    <!-- page.modified isn't a natural Jekyll property, but it can be added. -->
+    {% if page.summary %}
+    <meta name="twitter:description" content="{{ page.meta_description }}">
+    {% else %}
+    <meta name="twitter:description" content="{{ page.content | strip_html | xml_escape
+      | truncate: 200 }}">
+    <!-- <meta property="modified_time" content="{{page.modified}}" /> -->
+    {% endif %}
 
-  <!-- Here my author and publisher tags are the same (yay self-publishing) -->
-  <meta property="author" content="https://facebook.com/manuelvarzen" />
-  <!-- But if your site has its own page, this is where to put it. -->
-  <meta property="publisher" content="https://www.facebook.com/manuelvarzen" />
+    <!-- Here my author and publisher tags are the same (yay self-publishing) -->
+    <meta property="author" content="https://facebook.com/manuelvarzen" />
+    <!-- But if your site has its own page, this is where to put it. -->
+    <meta property="publisher" content="https://www.facebook.com/manuelvarzen" />
 
-  <!-- Article section isn't a required property, but it can be good to have -->
-  <meta property="section" content="{{page.vertical}}" />
+    <!-- Article section isn't a required property, but it can be good to have -->
+    <meta property="section" content="{{page.vertical}}" />
 
-  <!-- I use the page.categories property for OG tags. -->
-  {% for tag in page.categories %}
+    <!-- I use the page.categories property for OG tags. -->
+    {% for tag in page.categories %}
     <meta property="article:tag" content="{{tag}}" />
-  {% endfor %}
+    {% endfor %}
 
-  <!-- I prefer the summary_large_image Twitter card for posts. -->
-  <meta name="twitter:card" content="summary_large_image" />
-  <!-- You, you're the creator. -->
-  <meta name="twitter:creator" content="@manuelvarzen" />
-  <!-- This property is for the article title, not site title. -->
-  <meta name="twitter:title" content="{{page.title}}" />
+    <!-- I prefer the summary_large_image Twitter card for posts. -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <!-- You, you're the creator. -->
+    <meta name="twitter:creator" content="@manuelvarzen" />
+    <!-- This property is for the article title, not site title. -->
+    <meta name="twitter:title" content="{{page.title}}" />
 
-{% if page.image %}
+    {% if page.image %}
     <meta property="og:image" content="{{ site.url }}{{page.image}}" />
     <meta name="twitter:image" content="{{ site.urlimg }}{{page.image.thumb}}" />
-{% else %}
+    {% else %}
     <meta property="og:image" content="{{ site.url }}{{page.image}}" />
     <meta name="twitter:image" content="{{ site.urlimg }}{{page.image.thumb}}" />
-  {% endif %}
+    {% endif %}
 
-{% else %}
-  <!-- OG data for homepage -->
-  <meta property="og:image:url" content="{{ site.url }}{{page.image}}" />
-  <meta property="og:type" content="website" />
+    {% else %}
+    <!-- OG data for homepage -->
+    <meta property="og:image:url" content="{{ site.url }}{{page.image}}" />
+    <meta property="og:type" content="website" />
 
-  <meta name="twitter:card" content="summary" />
-  <meta name="twitter:image" content="{{ site.urlimg }}{{page.image.thumb}}">
-  <meta name="twitter:title" content="{{ site.title }}" />
-    
-{% endif %}
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:image" content="{{ site.urlimg }}{{page.image.thumb}}">
+    <meta name="twitter:title" content="{{ site.title }}" />
 
-  <!-- {% if site.google_analytics %}
-    <script>
-      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-      ga('create', '{{ site.google_analytics }}', 'auto');
-      ga('send', 'pageview');
-    </script>
-  {% endif %}--> 
-  
-{% include social-metatags.html %}
+    {% endif %}
+
+    <!-- {% if site.google_analytics %}
+      <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+        ga('create', '{{ site.google_analytics }}', 'auto');
+        ga('send', 'pageview');
+      </script>
+    {% endif %}-->
+    {% include social-metatags.html %}
 </head>
 
