@@ -9,17 +9,20 @@ google_analytics: UA-127545573-1
 
 # SEO settings
 title: Vigía!, Open Data for the Citizen Government
-description: Another blog for promote open data for the citizen goverment
-
-
+description: Another blog for promote open data for the citizen goverment. Otro blog para promover los datos abiertos para el gobierno ciudadano. 
 #Dont change
 url: "https://manuelvarzen.github.io/"
+author: Manuel Vargas Alegría
 #Dont change
 twitter:
   username: manuelvarzen
   site: https://www.twitter.com/manuelvarzen
 default_img: /Vigia/img/OpenData_500x300.png
 
+image: 
+    path: /img/OpenData.png
+
+lang: es
 
 # Profile settings
 name: Vigia
