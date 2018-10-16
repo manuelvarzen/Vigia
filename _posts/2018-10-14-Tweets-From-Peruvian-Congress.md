@@ -1,6 +1,8 @@
 ---
 layout: post
 author: Manuel Vargas Alegría
+headline: notes1
+publisher: notes2
 title: "#HashTags desde el Congreso de la República del Perú"
 date: 2018-10-14
 summary: An approach to the analysis of political discourse
