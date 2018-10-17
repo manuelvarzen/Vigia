@@ -7,11 +7,12 @@ description: Una historia de estudiantes y computadoras en el Perú de hace unas
 image: /Vigia/img/Excel_colegioPCxAlumno.jpg
 image-sm: /Vigia/img/Excel_colegioPCxAlumno.jpg
 categories:
-  - Computers
-  - Schools
-  - Learning
-  - Open Data
-  - Open Goverment
+  - Education  
+  - Public-Management
+  - Open-Government
+  - Open-Data
+  - Data-Visualization
+  - Data-Journalism
 ---
 
 Para un chibolo y sus amigos, de cualquier colegios público, de ciertas características, haber contado con computadoras en la escuela pudo haber sido una experiencia llena de frustración. Al menos lo fue para los estudiantes de dos instituciones educativas según lo hemos sustentado en esta [tesis](http://bit.ly/2IVl3Pe) hace algunos años atrás. 
