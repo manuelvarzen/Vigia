@@ -8,9 +8,11 @@ image: /Vigia/img/CongresistasTweets-2016-2021-1.jpg
 image-sm: /Vigia/img/CongresistasTweets-2016-2021-1.jpg
 categories:
   - Politics  
-  - Discourse
-  - SocialMedia
-  - NetworkGraph
+  - Congressman
+  - Open-Government
+  - Open-Data
+  - Data-Visualization
+  - Data-Journalism
 ---
 
 The tweet seems to be the quickest way to communicate any other issue if it is in the case of the public question the same one that has been entrusted to politicians by citizens.
