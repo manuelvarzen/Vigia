@@ -11,9 +11,11 @@ image: /Vigia/img/PeruvianCongressManHashTags.png
 image-sm: /Vigia/img/PeruvianCongressManHashTags.png
 categories:
   - Politics  
-  - Open Goverment
   - Congressman
-  - Open Data 
+  - Open-Government
+  - Open-Data
+  - Data-Visualization
+  - Data-Journalism
 ---
 ### HashTags desde el Congreso del Perú. 
 ¿Hasta que punto es posible soportar el uso de los recursos públicos en beneficio de terceros por parte de los funcionarios públicos? Si los ciudadanos tuvieramos la opción de monitorear, detectar y actuar de manera anticipada podríamos aproximarnos a un gobierno más democrático y participativo. Pero en el Perú no tenemos ni lo uno ni lo otro. 
