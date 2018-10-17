@@ -8,9 +8,11 @@ image: /Vigia/img/pdte_Martin41.jpg
 image-sm: /Vigia/img/pdte_Martin41.jpg
 categories:
   - Politics  
-  - Discourse
-  - TextMining 
-  - Data Visualization
+  - Congressman
+  - Open-Government
+  - Open-Data
+  - Data-Visualization
+  - Data-Journalism
 ---
 Ante una crisis, tenemos la libertad de ver el vaso medio vacio o medio lleno. Pero un mensaje, no solo de sustantivos, sino de verbos que llaman a la acción a todos los ciudadanos, a los cotidianos de siempre, que lejos de pertenecer a entidades estatales burocráticas de tamaños (macro o micro) increíbles, quieren descansar de aquellas y de aquellos (representantes políticos y funcionarios públicos) que han aportado (y que aportan) muy poco al país; permite ver el vaso medio lleno. 
 
