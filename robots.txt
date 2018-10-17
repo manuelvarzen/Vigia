@@ -1,0 +1,2 @@
+Sitemap: https://manuelvarzen.github.io//sitemap.xml
+Sitemap: https://manuelvarzen.github.io/Vigia//sitemap.xml
