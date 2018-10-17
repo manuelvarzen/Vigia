@@ -8,9 +8,11 @@ image: /Vigia/img/JNE_VotoInformado_Comparacion.jpg
 image-sm: /Vigia/img/JNE_VotoInformado_Comparacion.jpg
 categories:
   - Politics  
-  - Open Goverment
-  - Elections
-  - Open Data 
+  - Congressman
+  - Open-Government
+  - Open-Data
+  - Data-Visualization
+  - Data-Journalism
 ---
 #### Breve introducción
 Si la población tuviera acceso al código fuente de las diferentes aplicaciones del Estado, todos nosotros podríamos sugerir las mejoras necesarias para arreglarlo y mejorarlo, independiente si conocemos algún lenguaje de programación o no. Como es obvio anotar, la entidad tendría el control de las versiones, manejaría la priorización de los requerimientos y entregaría progresivamente un mejor producto a los ciudadanos. 
