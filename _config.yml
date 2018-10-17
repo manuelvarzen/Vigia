@@ -34,6 +34,7 @@ social:
 # Build settings
 markdown: kramdown
 url: "https://manuelvarzen.github.io/Vigia"
+
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
