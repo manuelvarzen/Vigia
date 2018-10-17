@@ -8,9 +8,11 @@ image: /Vigia/img/PlanGob_visuales.jpg
 image-sm: /Vigia/img/PlanGob_visuales.jpg
 categories:
   - Politics  
-  - Open Goverment
-  - Elections
-  - Open Data 
+  - Congressman
+  - Open-Government
+  - Open-Data
+  - Data-Visualization
+  - Data-Journalism
 ---
 ### 
 ¿Deberíamos ir a votar confiados en que los candidatos piensan en nosotros, los ciudadanos, o tenemos más indicios para desconfiar de sus discursos? Las evidencias dejadas en sus textos confirman una respuesta negativa a esta pregunta. En este post agregaremos más leña al fuego para desconfiar, con cierta certeza, de varios de ellos. 
