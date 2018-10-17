@@ -9,6 +9,10 @@ categories:
 description: Es importante anotar como en una empresa trabajan más personas sin mayor educación que el nivel secundario.
 image: /Vigia/img/QlikSense_Trabajadores.png
 image-sm: /Vigia/img/QlikSense_Trabajadores.png
+  - Jobs  
+  - Management
+  - Data-Visualization
+  - Data-Journalism
 ---
 
 Distribución estimada del nivel educativo del personal que labora en una empresa. 
