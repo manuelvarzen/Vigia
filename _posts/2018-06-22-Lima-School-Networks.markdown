@@ -7,10 +7,12 @@ description: Visualización de la red del sistema educativo nacional de educaci�
 image: /Vigia/img/OpenData.jpg
 image-sm: /Vigia/img/OpenData.jpg
 categories:
-  - Education 
-  - Logistics
-  - Schools 
-  - Systems
+  - Education  
+  - Public-Management
+  - Open-Government
+  - Open-Data
+  - Data-Visualization
+  - Data-Journalism
 ---
 
 En el mapa se visualizara el alcance que tiene cada sede de UGEL con sus respectivas instituciones educativas y a su vez el que tiene la dirección regional de educación de Lima Metropolitana con cada una de ellas. Se puede hacer también el ejercicio a nivel nacional y seria muy similar. Como se puede apreciar con facilidad es materialmente imposible que una entidad tan pequeña como la UGEL supervise de manera presencial a todas sus escuelas. Por lo que se hace necesario re-definir esta organización de manera urgente. 
