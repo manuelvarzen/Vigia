@@ -2,14 +2,14 @@
 layout: post
 title: "San Isidro, Datos Abiertos para Gobernar"
 date: 2018-05-31
-categories:
-  - Open Data 
-  - Open Goverment 
-  - Data
-  - Goverment 
 description: Otra historia de datos abiertos.
 image: /Vigia/img/SanIsidro-1.jpg
-image-sm: /Vigia/img/SanIsidro-1.jpg
+image-sm: /Vigia/img/SanIsidro-1.jpg   
+  - Public-Management
+  - Open-Government
+  - Open-Data
+  - Data-Visualization
+  - Data-Journalism
 ---
 
 <iframe width="100%" height="520" frameborder="0" src="https://manuelvarzen.carto.com/builder/40bb07aa-696a-40c9-bdab-3bfdad00d2b0/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
