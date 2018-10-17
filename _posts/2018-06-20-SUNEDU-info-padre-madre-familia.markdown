@@ -7,10 +7,12 @@ description: Recomendamos agregar la información del estado del licenciamiento 
 image: /Vigia/img/LicenUnivLima2018.JPG
 image-sm: /Vigia/img/LicenUnivLima2018.JPG
 categories:
-  - University
-  - College
-  - License
-  - Education
+  - Education  
+  - Public-Management
+  - Open-Government
+  - Open-Data
+  - Data-Visualization
+  - Data-Journalism
 ---
 
 Si yo fuera un padre de familia preocupado por donde quisiera que mi hijo estudie su futura carrera profesional o un adolescente / joven quien desea estudiar en alguna universidad pública y, si mis medios me lo me permiten, en una privada, escogiendo entre los dos únicos sabores: asociativas o societarias; tendrían que visitar, sin dudarlo, el portal de [PonteEnCarrera.pe](https://www.ponteencarrera.pe/). 
