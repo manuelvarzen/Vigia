@@ -8,7 +8,7 @@ paginate_path: "/blog/page-:num"
 google_analytics: UA-127545573-1
 
 # SEO settings
-title: Vigía!, Open Data for the Citizen Government
+title: Vigía!, open data visualization for the citizen government
 description: Another blog for promote open data for the citizen goverment. Otro blog para promover los datos abiertos para el gobierno ciudadano. 
 #Dont change
 url: "https://manuelvarzen.github.io/"
