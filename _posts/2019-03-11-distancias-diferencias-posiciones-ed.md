@@ -22,7 +22,7 @@ Nuestro país es un contenedor de distancias físicas, diferencias sociales y po
 Así que el punto crítico, importante y relevante, a nuestro modesto modo de entender nuestro contexto; es establecer un punto medio entre los extremos que existen entre las distancias, las diferencias y las posiciones. Pero ¿cómo hacerlo? Tal vez, al visualizar los datos del Ministerio de Educación del Perú (a los que usualmente accedemos) encontraremos esas distancias, diferenicas y posiciones para proponer ir en alguna otra dirección. 
 
 <iframe width="100%" height="520" frameborder="0" src="https://manuelvarzen.carto.com/builder/2c7136de-1431-4cb6-90df-b7850c8b7d70/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
-Para ampliar la vista del mapa acceder a [ed.lazosnexos.pro](https://ed.lazosnexos.pro target="blank){:target="_blank"} 
+Para ampliar la vista del mapa acceder a [ed.lazosnexos.pro](https://ed.lazosnexos.pro){:target="_blank"}
 
 - ## Distancias espaciales:
 
