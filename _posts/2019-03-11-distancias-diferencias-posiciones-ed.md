@@ -1,8 +1,25 @@
-#Distancias espaciales, diferencias sociales y posiciones polarizadas en el sistema educativo peruano. 
-
+---
+layout: post
+author: Manuel Vargas Alegría
+headline: Distancias espaciales, diferencias sociales y posiciones polarizadas en el sistema educativo peruano
+publisher: manuelvarzen
+title: "Distancias espaciales, diferencias sociales y posiciones polarizadas en el sistema educativo peruano"
+date: 2019-03-11
+summary: An overview of the peruvian education system´s complexity
+description: 
+image: /Vigia/img/ed-card13.png
+image-sm: /Vigia/ed-carg13.png
+categories:
+  - Education-Policies  
+  - Education-Systems
+  - Open-Government
+  - Open-Data
+  - Data-Visualization
+  - Data-Journalism
+---
 Nuestro país es un contenedor de distancias físicas, diferencias sociales y posiciones polarizadas; y es posible observarlo, en tanto se tenga una voluntad crítica, un desapego por el consumo individualista y una minima base ética y moral. Caso contario es invisible, transparente y mimetico con el contexto social cotidiano a tal punto que cualquier observador lo asume como fenómeno normal, efectivamente cotidiano. Pero esto también ocurre en cualquier nación del mundo. 
 
-Así que el punto crítico, importante y relevante, a nuestro modesto modo de entender nuestro contexto; es establecer un punto medio entre los extremos que existen entre las distancias, las diferencias y las posiciones. Pero ¿cómo hacerlo? Tal vez, al visualizar los datos del Ministerio de Educación del Perú (a los que usualmente accedemos) encontraemos esas distancias, diferenicas y posiciones para proponer que hacer.
+Así que el punto crítico, importante y relevante, a nuestro modesto modo de entender nuestro contexto; es establecer un punto medio entre los extremos que existen entre las distancias, las diferencias y las posiciones. Pero ¿cómo hacerlo? Tal vez, al visualizar los datos del Ministerio de Educación del Perú (a los que usualmente accedemos) encontraremos esas distancias, diferenicas y posiciones para proponer ir en alguna otra dirección. 
 
 [[Colocar mapa]] 
 
