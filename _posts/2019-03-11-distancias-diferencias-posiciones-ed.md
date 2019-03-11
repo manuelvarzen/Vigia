@@ -6,7 +6,7 @@ publisher: manuelvarzen
 title: "Distancias espaciales, diferencias sociales y posiciones polarizadas en el sistema educativo peruano"
 date: 2019-03-11
 summary: An overview of the peruvian education system´s complexity
-description: 
+description: While hundreds of thousands of schools are quite far from their first line of logistical support, the Ministry of Education Peru tries to manage all schools from an overly centralized focus while continuing to debate ideological positions in judicial and academic forums.
 image: /Vigia/img/ed-card13.png
 image-sm: /Vigia/ed-carg13.png
 categories:
