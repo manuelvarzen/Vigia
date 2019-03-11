@@ -32,7 +32,7 @@ Aunque a esas escuelas se puede llegar más menos en una hora viajando en autom�
 
 - ##  Diferencias sociales: 
 
-Los puntos rojos en el mapa indican escuelas privadas y los verdes, las públicas. Según los datos del Ministerio de Educación en los distritos de la provincia de Lima, existen más cantidad de las primeras que las segundas pero los resultados de las evaluaciones censales indican que a la instituciones educativas publicas les ha ido mejor en matematica que a sus pares particulares. 
+Los puntos rojos en el mapa indican escuelas privadas y los verdes, las públicas. Según los datos del Ministerio de Educación en los distritos de la provincia de Lima, existen más cantidad de las primeras que las segundas pero los resultados de las evaluaciones censales indican que a la instituciones educativas publicas les ha ido mejor en matemática que a sus pares particulares. 
 
 Pero lo cierto es que este año el colegio privado más costoso del Perú cobrara, por cadda estudiante, un total de S/54,540; mientras tanto, el Estado Peruano invertirá como máximo, por cada estudiante en un año, S/4,243. Como lo decia un ex-ministro si no incrementamos el gasto anual por estudiante "no la haremos como país" y su antecesora siempre refería esta frase: "ningún alumno se queda atrás". 
 
