@@ -38,7 +38,7 @@ Pero lo cierto es que este año el colegio privado más costoso del Perú cobrar
 
 - ## Posiciones polarizadas: 
 
-El escritor peruano [Juan Manuel Robles](https://www.twitter.com/palidofuego111) refiere en un [tweet](https://twitter.com/palidofuego111/status/1103427823757332480) que la "discusión recurrente entre progresistas e izquierdistas de clase media, desde hace años. El Perú es uno de los peores lugares para tener esa discusión, lo que es muy triste" con respecto al tema de la participación de los agentes privados, en el sector educación, bajo cualquier modalidad (asociativa o societaria). 
+El escritor peruano [Juan Manuel Robles](https://www.twitter.com/palidofuego111) refiere en un [tweet](https://twitter.com/palidofuego111/status/1103427823757332480) que la "discusión recurrente entre progresistas e izquierdistas de clase media, desde hace años. El Perú es uno de los peores lugares para tener esa discusión, lo que es muy triste" con respecto al tema de la participación de los agentes privados. 
 
 Es cierto, es el peor lugar, pero aunque sea un error táctico siempre nos preguntaremos, al ver los datos, estructurados, no-estructurados y geo-espaciales: ¿qué sentido tienen la educación privada en el Perú?. El hilo de la respuestas a estas preguntas se puede encontrar en este enlace:  [“Peru_private_education” - @manuelvarzen](https://twitter.com/manuelvarzen/timelines/982257458050580485) 
 
