@@ -28,7 +28,7 @@ Para ampliar la vista del mapa acceder a [ed.lazosnexos.pro](https://ed.lazosnex
 
 Así observaremos que la Unidad de Gestión Educativa Local (UGEL) 01 San Juan de Miraflores es una de las más extensas debido a que tiene algunas escuelas que supervisar en la zona norte del distrito de Chilca (provincia de Cañete) colindante con el borde sur de la provincia de Lima (recordemos que Lima con sus respectivos distritos forman una provincia, como cualquier otra). 
 
-Aunque a esas escuelas se puede llegar más menos en una hora viajando en automovil propio lo cierto es que una forma racional de organizar esta distribución tendría dos (o tal vez más) opciones: [a] la sede de la UGEL debería estar en un punto equidistante de todas las escuelas a las que tiene que supervisar; o [2] Cada municipio debería asumir las funciones de la UGEL debido a sus proximidad con todas ellas. 
+Aunque a esas escuelas se puede llegar más menos en una hora viajando en automóvil propio lo cierto es que una forma racional de organizar esta distribución tendría dos (o tal vez más) opciones: [a] la sede de la UGEL debería estar en un punto equidistante de todas las escuelas a las que tiene que supervisar; o [2] Cada municipio debería asumir las funciones de la UGEL debido a sus proximidad con todas ellas. 
 
 - ##  Diferencias sociales: 
 
