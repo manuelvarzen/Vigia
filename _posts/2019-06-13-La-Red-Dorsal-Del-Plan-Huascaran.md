@@ -4,18 +4,18 @@ author: Manuel Vargas Alegría
 headline: notes1
 publisher: notes2
 title: "#La Red Dorsal del Plan Huascaran"
-date: 2018-10-14
+date: 2019-06-13
 summary: An approach to the technology education and links
 description: Two important events linked to the discourse of interconnecting the whole country appeared in the last decades.
 image: /Vigia/img/RedDorsalPlanHuascaran.png
 image-sm: /Vigia/RedDorsalPlanHuascaran.png
 categories:
   - Politics  
-  - Congressman
+  - Policy
   - Open-Government
   - Open-Data
-  - Data-Visualization
-  - Data-Journalism
+  - Telecommunication
+  - Education Technology
 ---
 
 Distancias espaciales y ausencias funcionales pero proximidades conceptuales en el Plan Huascaran y la Red Dorsal Nacional de Fibra Óptica: similares situaciones y diferentes actores.  
