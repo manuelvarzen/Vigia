@@ -7,8 +7,8 @@ title: "#La Red Dorsal del Plan Huascaran"
 date: 2018-10-14
 summary: An approach to the technology education and links
 description: Two important events linked to the discourse of interconnecting the whole country appeared in the last decades.
-image: /Vigia/img/
-image-sm: /Vigia/
+image: /Vigia/img/RedDorsalPlanHuascaran.png
+image-sm: /Vigia/RedDorsalPlanHuascaran.png
 categories:
   - Politics  
   - Congressman
