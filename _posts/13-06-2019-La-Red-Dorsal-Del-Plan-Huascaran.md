@@ -1,3 +1,23 @@
+---
+layout: post
+author: Manuel Vargas Alegría
+headline: notes1
+publisher: notes2
+title: "#La Red Dorsal del Plan Huascaran"
+date: 2018-10-14
+summary: An approach to the technology education and links
+description: Two important events linked to the discourse of interconnecting the whole country appeared in the last decades.
+image: /Vigia/img/
+image-sm: /Vigia/
+categories:
+  - Politics  
+  - Congressman
+  - Open-Government
+  - Open-Data
+  - Data-Visualization
+  - Data-Journalism
+---
+
 Distancias espaciales y ausencias funcionales pero proximidades conceptuales en el Plan Huascaran y la Red Dorsal Nacional de Fibra Óptica: similares situaciones y diferentes actores.  
 
 Una de las consideraciones primarias de nuestra forma cotidiana de ser (y parecer; y padecer, como peruanos) es olvidar, tal vez, por siempre, lo que hicimos o lo que dejamos de hacer. En un país cada vez más fragmentado en su presente es imposible pensar que tuvo un pasado integrado y por lo tanto seria lógico esperar un futuro apocalíptico. Esta visión no es única, de hecho varios personajes de nuestra sociedad refieren siempre mirar el vaso medio vacío aunque algunos otros (cada vez menos) prefieren verlo medio lleno. Sin embargo, aunque duela y enoje siempre será aconsejable recordar para olvidar que es posible dejar el pasado atrás. 
