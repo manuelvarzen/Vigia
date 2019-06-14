@@ -24,7 +24,7 @@ Con esta premisa por delante, afirmaremos que en la historia de las telecomunica
 
 Así, "conceptos próximos" se refieren al análisis textual de los documentos normativos normativos que crearon, organizaron y cerraron los proyectos. Al comparar los textos de los documentos encontraremos similitudes en el significado del uso de las palabras. En la categoria de "ausencias funcionales" es donde ubicareos todas las noticias de los hechos que a modo de bitacora, permiten evidenciar lo que hacen o dejan de hacer los actores involucrados (Estado, empresa privada, sociedad civil) en la gestión de sus proyectos. Y finalmente, "las distancias espaciales", refieren el alcance espacial de proyecto global, continental, nacional, estatal, provincial o distrital y su vinculación con lo técnico-tecnológico para conseguirlo. 
 
-##Proximidades conceptuales: 
+- ##Proximidades conceptuales: 
 Al comparar ambos documentos encontramos las siguientes palabras en común: [1] Nacional [2] Telecomunicaciones [3] Servicios; otras 2 [4] Ancha y [5] aparece vinculadas con menor énfasis. De esta comparación podemos inferir que ambos proyectos han sido concebidos para proporcionar servicios de telecomunicaciones a nivel nacional teniendo en común que los dos reclaman una infraestructura para operar. Obviamente, en la ley que crea la Red Dorsal Nacional de Fibra Óptica los conceptos técnicos y las consideraciones tecnológicas fueron más específicos que en el decreto supremo que origino el plan Huascaran. 
 
 En la imagen observamos a existencia de las mismas palabras en ambos documentos. La lectura de ellos nos indican que se refieren a los mismos conceptos es decir en [1] Nacional, en ambos proyectos se hace referencia que tiene que el alcance de la infraestructura debe permitir conectar todo el país; en [2] Telecomunicaciones, ambos documentos hacen referencia a una red de comunicaciones que permite transmitir datos y voz; y conectarse a otras redes de información, nacionales o extranjeras. Finalmente [3] Servicios, se entiende que ambos proyectos será un servicio, una prestación que el ciudadano tendrá disponible a través de un agente privado concesionario de su provisión. 
@@ -36,20 +36,20 @@ Sinclair, S. & G. Rockwell (2019) TermsRadio. Voyant Tools. Retrieve June 9, 201
 
 Es de esta manera como establecemos una aproximación conceptual entre ambos proyectos evidenciada en el significado común de tres palabras que resumen el sentido de los proyectos estudiados. 
 
-##Ausencias funcionales 
+- ##Ausencias funcionales 
 De esa manera, como hoy se discuten los problemas de la concesión a los operadores de la Red Dorsal Nacional de Fibra Óptica ayer se discutía, en el Plan Huascaran, la forma en que un operador entregaría acceso a la Internet a todos los colegios públicos del Perú, tarea más que imposible considerando el presupuesto nacional, nuestra geografía, la cantidad de estudiantes por aula en cada institución educativa, la disposición de equipos en cada una de ellas, entre otras consideraciones logísticas solo para dejar de hablar de los aspectos conceptuales de la formación mediática de los docente y alumnos para que pudieran hacer un uso intensivo de la promesa de la conexión cuando esta llegara a su escuela. 
 
 En ese sentido, la definición de ausencia funcional para nosotros se define como el "no-hacer", el "dejar pasar" o simplemente el "hacer" por el "hacer" en la evidencia más próxima de la búsqueda ... del funcionario público 
 
 
-##Recordar es volver a vivir: a modo de reflexión. 
+- ##Recordar es volver a vivir: a modo de reflexión. 
 ¿Quién desearía volver a vivir una mala experiencia? Usualmente, nadie. Pero cuando observamos el esfuerzo del Estado es imposible olvidar que en la experiencia presente no existe un pasado, un antecedente. Por eso es importante recordar lo sucedido, aunque duela y enoje. 
 
 Pero alguien puede indicar que esta situación es diferente, por que el actual proyecto al cual hemos hecho referencia es de infraestructura y el otro fue educativo; que el primero proviene directamente del Ministerio de Transporte y Comunicaciones; y el otro, del Ministerio de Educación. 
 
-##Distancias espaciales
+- ##Distancias espaciales
 
---- 
+
 
 nos interesa recordar el Plan Huascaran (D.S) como una experiencia olvidada por quienes han implementado la Red Dorsal Nacional de Fibra Óptica (Ley ). Y esta inquietud quiere sostenerse en el concepto que guió y guía su implantación de manera  
 
