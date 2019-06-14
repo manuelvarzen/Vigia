@@ -49,12 +49,14 @@ La situación es similar y simple: no alcanza la demanda para obtener una oferta
 
 Como no podría ser de otra manera, desde la perspectiva del funcionario público del poder ejecutivo, la ambición de su alcance, siempre es una demanda de infraestructura a nivel nacional acompañada de un discurso que promete solucionar los problemas del último rincón del Perú. Pero en todos los casos la realidad del proveedor supera el anhelo del funcionario y todo se reduce a lo mínimo que se puede alcanzar y en ambos casos la situación ha sido similar. La revisión de cada primer artículo de los documentos normativos de ambas iniciativas lo revelan así.  
 
-> Artículo 1º.- Créase el Proyecto Huascarán, como órgano desconcentrado del Ministerio de Educación, dependiente del Viceministerio de Gestión Pedagógica, encargado de desarrollar, ejecutar, evaluar y supervisar, con fines educativos, una red nacional, moderna, confiable, con acceso a todas las fuentes de información y capaz de transmitir contenidos de multimedia, a efectos de mejorar la calidad educativa en las zonas rurales y urbanas. Dicho Proyecto contará con la participación activa del Ministerio de Transportes, Comunicaciones, Vivienda y Construcción, en el desarrollo de las telecomunicaciones y servicios informáticos. Decreto Supremo 067-2001-ED, Crean el proyecto Huascarán, 15-11-2001
+<d1> 
+  <dt>Artículo 1º.- Créase el Proyecto Huascarán, como órgano desconcentrado del Ministerio de Educación, dependiente del Viceministerio de Gestión Pedagógica, encargado de desarrollar, ejecutar, evaluar y supervisar, con fines educativos, una red nacional, moderna, confiable, con acceso a todas las fuentes de información y capaz de transmitir contenidos de multimedia, a efectos de mejorar la calidad educativa en las zonas rurales y urbanas. Dicho Proyecto contará con la participación activa del Ministerio de Transportes, Comunicaciones, Vivienda y Construcción, en el desarrollo de las telecomunicaciones y servicios informáticos. Decreto Supremo 067-2001-ED, Crean el proyecto Huascarán, 15-11-2001 </dt>
 
-> Artículo 1. Objeto de la Ley
+<dt> Artículo 1. Objeto de la Ley
 El propósito de la Ley es impulsar el desarrollo, utilización y masificación de la Banda Ancha en todo el territorio nacional, tanto en la oferta como en la demanda por este servicio, promoviendo el despliegue de infraestructura, servicios, contenidos, aplicaciones y habilidades digitales, como medio que favorece y facilita la inclusión social, el desarrollo socioeconómico, la
 competitividad, la seguridad del país y la transformación organizacional hacia una sociedad de la información y el
-conocimiento. Ley 29906, Ley de promoción de la banda ancha y construcción de la red dorsal nacional de fibra óptica, 28-6-2012
+conocimiento. Ley 29906, Ley de promoción de la banda ancha y construcción de la red dorsal nacional de fibra óptica, 28-6-2012 </dt
+  </d1>
 
 Cuando se revela el mapa de las escuelas de frontera que es lo mismo decir la ubicación de los centros poblados donde viven peruanos, uno se pregunta si la distancia espacial que separa el centro de Lima con aquellos rincones del Perú ha dejado de cuestionar el hecho de abogadar por la descentralización del país. Por que siempre parece que imposible (y todos los hechos y datos demuestran que sí) conseguir conectar aquellos lugares remotos. Y aunque los datos así lo explican los funcionarios aún insisten, creen y actúan pensando que lo lograran desde una dinámica centralizada en Lima. 
 
