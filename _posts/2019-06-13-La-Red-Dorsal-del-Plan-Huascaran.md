@@ -29,7 +29,7 @@ Al comparar ambos documentos encontramos las siguientes palabras en común: [1] 
 
 En la imagen observamos a existencia de las mismas palabras en ambos documentos. La lectura de ellos nos indican que se refieren a los mismos conceptos es decir en [1] Nacional, en ambos proyectos se hace referencia que tiene que el alcance de la infraestructura debe permitir conectar todo el país; en [2] Telecomunicaciones, ambos documentos hacen referencia a una red de comunicaciones que permite transmitir datos y voz; y conectarse a otras redes de información, nacionales o extranjeras. Finalmente [3] Servicios, se entiende que ambos proyectos será un servicio, una prestación que el ciudadano tendrá disponible a través de un agente privado concesionario de su provisión. 
 
-!(img/LaRedDorsalDelPlanHuascaran-1.jpg "La Red Dorsal Nacional del Plan Huascaran")
+!(Vigia/img/LaRedDorsalDelPlanHuascaran-1.jpg "La Red Dorsal Nacional del Plan Huascaran")
 
 Sinclair, S. & G. Rockwell (2019) TermsRadio. Voyant Tools. Retrieve June 9, 2019, from http://voyant-tools.org
 
