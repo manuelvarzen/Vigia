@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Manuel Vargas Alegría
-headline: Distancias espaciales y ausencias funcionales pero proximidades conceptuales en el Plan Huascaran y la Red Dorsal Nacional de Fibra Óptica: similares situaciones y diferentes actores.  
+headline:   
 publisher: manuelvarzen
 title: "La Red Dorsal Nacional de Fibra Óptica(2012) del Plan Huascaran(2001)"
 date: 2019-06-13
