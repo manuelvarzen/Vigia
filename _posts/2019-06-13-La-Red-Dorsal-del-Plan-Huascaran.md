@@ -69,7 +69,7 @@ Cuando se revela el mapa de las escuelas de frontera que es lo mismo decir la ub
 
 [Los más entusiastas,](https://twitter.com/oscarmontezuma/status/1135164541707251712?s=20) como siempre, observaran el vaso medio lleno y pensaran que la distancia espacial puede ser atendida por las iniciativas de las empresas privadas de telecomunicaciones acompañada de la visión pragmática del funcionario público al interior del sistema centralizado de gobierno. Sin embargo olvidan siempre, justamente, el problema, el desafío y el reto que la distancia espacial ha demostrado en estos dos casos: la demanda del servicio tienen que ser tal que sea rentable para el operador y cuando no lo es el Estado tienen (y debería) que actuar. Pero parece que a nadie le importa y dejan de pasar el aspecto de la distancia espacial. 
 
-## Reflexión 
+## Reflexión (consejo, advertencia, discusión, moraleja, eseñanza, lección aprendida, consideración...) 
 Un punto critico, cuando pensamos en el uso de una determinada tecnología, para los fines de la gestión pública y cualquier otro; es el paradigma desde el cual abordamos estas iniciativas. Así, la revisión de los supuestos de la tecnología de la filosofía nos invitan a considerar dos opciones el determinismo tecnológico y el determinismo social. 
 
 Con relación al primero anotaremos que es un punto de vista ideológico que sostiene que la tecnología es un agente causal, autónomo y una fuerza que impulsa un cambio necesario en nuestra sociedad. Mientras tanto, el determinismo social, plantea que las tecnologías se desarrollan y evolucionan al ser configuradas por los procesos sociales y sus integrados elementos tecnosociales. 
