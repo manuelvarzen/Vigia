@@ -31,7 +31,7 @@ En la imagen observamos a existencia de las mismas palabras en ambos documentos.
 
 !(Vigia/img/LaRedDorsalDelPlanHuascaran-1.jpg "La Red Dorsal Nacional del Plan Huascaran")
 
-![alt text](img/LaRedDorsalDelPlanHuascaran-1.jpg "Title")
+![alt text](Vigia/img/LaRedDorsalDelPlanHuascaran-1.jpg "Title")
 
 Sinclair, S. & G. Rockwell (2019) TermsRadio. Voyant Tools. Retrieve June 9, 2019, from http://voyant-tools.org
 
