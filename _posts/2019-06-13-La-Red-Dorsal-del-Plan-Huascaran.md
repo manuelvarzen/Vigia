@@ -54,14 +54,14 @@ Viceministerio de Gestión Pedagógica, encargado de desarrollar, ejecutar, eval
 nacional, moderna, confiable, con acceso a todas las fuentes de información y capaz de transmitir contenidos de multimedia, a
 efectos de mejorar la calidad educativa en las zonas rurales y urbanas. Dicho Proyecto contará con la participación activa del
 Ministerio de Transportes, Comunicaciones, Vivienda y Construcción, en el desarrollo de las telecomunicaciones y servicios
-informáticos. Decreto Supremo 067-2001-ED, Crean el proyecto Huascarán, 15-11-2001. 
+informáticos. Decreto Supremo 067-2001-ED, Crean el proyecto Huascarán, 15-11-2001.* 
 
 *Artículo 1. Objeto de la Ley
 El propósito de la Ley es impulsar el desarrollo, utilización y masificación de la Banda Ancha en todo el territorio nacional,
 tanto en la oferta como en la demanda por este servicio, promoviendo el despliegue de infraestructura, servicios, contenidos,
 aplicaciones y habilidades digitales, como medio que favorece y facilita la inclusión social, el desarrollo socioeconómico, la
 competitividad, la seguridad del país y la transformación organizacional hacia una sociedad de la información y el
-conocimiento. Ley 29906, Ley de promoción de la banda ancha y construcción de la red dorsal nacional de fibra óptica, 28-6-2012 
+conocimiento. Ley 29906, Ley de promoción de la banda ancha y construcción de la red dorsal nacional de fibra óptica, 28-6-2012* 
 
 Cuando se revela el mapa de las escuelas de frontera que es lo mismo decir la ubicación de los centros poblados donde viven peruanos, uno se pregunta si la distancia espacial que separa el centro de Lima con aquellos rincones del Perú ha dejado de cuestionar el hecho de abogadar por la descentralización del país. Por que siempre parece que imposible (y todos los hechos y datos demuestran que sí) conseguir conectar aquellos lugares remotos. Y aunque los datos así lo explican los funcionarios aún insisten, creen y actúan pensando que lo lograran desde una dinámica centralizada en Lima. 
 
