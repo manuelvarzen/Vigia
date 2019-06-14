@@ -7,8 +7,8 @@ title: "La Red Dorsal del Plan Huascaran"
 date: 2019-06-13
 summary: At one point and another in the history of telecommunications in Peru, there have been two similar initiatives: the Huascaran plan (2001) and the Fiber Optic Dorsal Network (2012). Both are similar in concept, in their functional absences and in their spatial distances.
 description: Spatial distances and functional absences but conceptual proximities in the Huascaran Plan and the National Fiber Optic Dorsal Network: similar situations and different actors.
-image: /Vigia/img/LaRedDorsaldelPlanHuascaran-1.png
-image-sm: /Vigia/LaRedDorsaldelPlanHuascaran-1.png
+image: /Vigia/img/LaRedDorsalDelPlanHuascaran-1.png
+image-sm: /Vigia/LaRedDorsalDelPlanHuascaran-1.png
 categories:
   - Education-Telecommunications  
   - Education-Systems
