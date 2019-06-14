@@ -52,6 +52,16 @@ El propósito de la Ley es impulsar el desarrollo, utilización y masificación 
 competitividad, la seguridad del país y la transformación organizacional hacia una sociedad de la información y el
 conocimiento. Ley 29906, Ley de promoción de la banda ancha y construcción de la red dorsal nacional de fibra óptica, 28-6-2012
 
-## Reflexión 
+Cuando se revela el mapa de las escuelas de frontera que es lo mismo decir la ubicación de los centros poblados donde viven peruanos, uno se pregunta si la distancia espacial que separa el centro de Lima con aquellos rincones del Perú ha dejado de cuestionar el hecho de abogadar por la descentralización del país. Por que siempre parece que imposible (y todos los hechos y datos demuestran que sí) conseguir conectar aquellos lugares remotos. Y aunque los datos así lo explican los funcionarios aún insisten, creen y actuan pensando que lo lograran desde una dinámica centralizada en Lima. 
 
+![Escuelas (o centros poblados) en zona de frontera]({{"/img/Qlik_EscuelasFrontera.png" | absolute_url }})
+
+[Los más entusiastas,](https://twitter.com/oscarmontezuma/status/1135164541707251712?s=20) como siempre, observaran el vaso medio lleno y pensaran que la distancia espacial puede ser atendida por las iniciativas de las empresas privadas de telecomunicaciones acompapañada de la visión pragmática del funcionario público al interior del sistema centralizado de gobierno. Sin embargo olvidan siempre, justamente, el problema, el desafio y el reto que la distancia espacial ha demostrado en estos dos casos: la demanda del servicio tienen que ser tal que sea rentable para el operador y cuando no lo es el Estado tienen (y debería) que actuar. Pero parece que a nadie le importa y dejan de pasar el aspecto de la distancia espacial. 
+
+## Reflexión 
+El punto critico cuando pensamos en el uso de una determinada tecnología, para los fines de la gestión pública y cualquier otro; es el paradigma desde el cual abordamos estas iniciativas. Así, la revisión de los supuestos de la tecnología de la filosfía nos invitan a considerar dos opciones el determinismo tecnológico y el determinismo social.
+
+Con relación al primero anotaremos que es un punto de vista ideológico que sostiene que la tecnología es un agente causal, autónomo y una fuerza que impulsa un cambio necesario en nuestra sociedad. Mientras tanto, el determinismo social, plantea que las tecnologías se desarrollan y evolucionan al ser configuradas por los procesos sociales y sus integrados elementos tecnosociales. 
+
+Ambos puntos de vista son opuestos y cada quien puede tomar partido por el que mejor se ajuste a sus principios. Sin embargo, es una necesaria necesidad, especialmente para los funcionarios públicos, ahondar en su conocimiento para tener un punto critico y preciso con relación a la función de la tecnología en la provisión de los servicios públicos. Pero lo más probable es que encuentren que la opción más pragmática será la del determinismo social. 
 
