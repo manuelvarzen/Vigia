@@ -18,7 +18,7 @@ categories:
   - Telecom-Infrastructure
 ---
 
-Una de las consideraciones primarias de nuestra forma cotidiana de ser (y parecer; y padecer, como peruanos) es olvidar, tal vez, por siempre, lo que hicimos o lo que dejamos de hacer. En un país cada vez más fragmentado en su presente es imposible pensar que tuvo un pasado integrado y por lo tanto seria lógico, tal vez, esperar un futuro apocalíptico. Esta visión no es única, de hecho varios personajes de nuestra sociedad refieren siempre mirar el vaso medio vacío aunque algunos otros (cada vez menos) prefieren verlo medio lleno. Sin embargo, aunque duela y enoje siempre será aconsejable recordar que serpa imposible dejar el pasado atrás. 
+Una de las consideraciones primarias de nuestra forma cotidiana de ser (y parecer; y padecer, como peruanos) es olvidar, tal vez, por siempre, lo que hicimos o lo que dejamos de hacer. En un país cada vez más fragmentado en su presente es imposible pensar que tuvo un pasado integrado y por lo tanto seria lógico, tal vez, esperar un futuro apocalíptico. Esta visión no es única, de hecho varios personajes de nuestra sociedad refieren siempre mirar el vaso medio vacío aunque algunos otros (cada vez menos) prefieren verlo medio lleno. Sin embargo, aunque duela y enoje siempre será aconsejable recordar que será imposible dejar el pasado atrás. 
 
 Con esta premisa por delante, afirmaremos que en la historia de las telecomunicaciones de nuestro país existen dos hitos importantes: el primero de ellos, el Plan Huascaran () y el segundo la ley... y la Red Dorsal Nacional de Fibra Óptica. Ambos, a pesar del tiempo que los separa, son similares en tres categorías: conceptos próximos, ausencias funcionales y distancias espaciales. En conjunto estas tres categorias conforman un modelo conceptual que nos permiten ordenar las ideas y exponer las evidencias para demostrar las similitudes entres dos políticas públicas en tiemps diferentes. 
 
@@ -34,7 +34,7 @@ En la imagen observamos a existencia de las mismas palabras en ambos documentos.
 Sinclair, S. & G. Rockwell (2019) TermsRadio. Voyant Tools. Retrieve June 9, 2019, from http://voyant-tools.org
 Para continuar analizando los textos pueden ingresar al (siguiente enlace)[https://voyant-tools.org/?corpus=3bdbf62ff01e12e5716f7997b6f5cd76]
 
-De esta manera es como hemos establecido una aproximación conceptual entre ambos proyectos evidenciada en el significado común de tres palabras que resumen el sentido de aquellas iniciativas. 
+De esta manera hemos establecido, a priori, una aproximación conceptual entre ambos proyectos evidenciada en el significado común de tres palabras que resumen el sentido de aquellas iniciativas. 
 
 ###Ausencias funcionales 
 De esa manera, como hoy se discuten los problemas de la concesión a los operadores de la Red Dorsal Nacional de Fibra Óptica ayer se discutía, en el Plan Huascaran, la forma en que un operador entregaría acceso a la Internet a todos los colegios públicos del Perú, tarea más que imposible considerando el presupuesto nacional, nuestra geografía, la cantidad de estudiantes por aula en cada institución educativa, la disposición de equipos en cada una de ellas, entre otras consideraciones logísticas solo para dejar de hablar de los aspectos conceptuales de la formación mediática de los docente y alumnos para que pudieran hacer un uso intensivo de la promesa de la conexión cuando esta llegara a su escuela. 
