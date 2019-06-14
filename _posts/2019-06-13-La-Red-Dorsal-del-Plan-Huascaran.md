@@ -32,6 +32,8 @@ En la imagen observamos a existencia de las mismas palabras en ambos documentos.
 Sinclair, S. & G. Rockwell (2019) TermsRadio. Voyant Tools. Retrieve June 9, 2019, from http://voyant-tools.org
 ![RedDorsaldelPlanHuascaran](/img/LaRedDorsalDelPlanHuascaran-1.jpg "A cute kitten")
 
+![Red Dorsal Nacional de Fibra Óptica del Plan Huascaran]({{"/img/LaRedDorsalDelPlanHuascaran-1.jpg" | absolute_url }})
+
 
 Es de esta manera como establecemos una aproximación conceptual entre ambos proyectos evidenciada en el significado común de tres palabras que resumen el sentido de los proyectos estudiados. 
 
