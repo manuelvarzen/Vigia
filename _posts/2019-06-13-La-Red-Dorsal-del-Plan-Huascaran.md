@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Manuel Vargas Alegría
-headline: La Red Dorsal del Plan HUascaran 
+headline: Distancias espaciales y ausencias funcionales pero proximidades conceptuales en el Plan Huascaran y la Red Dorsal Nacional de Fibra Óptica: similares situaciones y diferentes actores. 
 publisher: manuelvarzen
 title: "La Red Dorsal del Plan Huascaran"
 date: 2019-06-13
