@@ -43,13 +43,15 @@ Así, referiremos, por ejemplo, que en el inicio del plan Huascarán se esperaba
 
 ## Distancias espaciales
 
-Como no podría ser de otra manera, desde la perspectiva del funcionario público del poder ejecutivo, la ambición de su alcance, siempre es una demanda de infraestructura a nivel nacional acompañada de un discurso que promete solucionar los problemas del último rincón del Perú. Pero en todos los casos la realidad del proveedor supera el anhelo del funcionario y todo se reduce a lo mínimo que se puede alcanzar y en ambos casos la situación ha sido similar.
+Como no podría ser de otra manera, desde la perspectiva del funcionario público del poder ejecutivo, la ambición de su alcance, siempre es una demanda de infraestructura a nivel nacional acompañada de un discurso que promete solucionar los problemas del último rincón del Perú. Pero en todos los casos la realidad del proveedor supera el anhelo del funcionario y todo se reduce a lo mínimo que se puede alcanzar y en ambos casos la situación ha sido similar. La revisión de cada primer artículo de los documentos normativos de ambas iniciativas lo revelan así.  
 
-## Reflexión 
+> Artículo 1º.- Créase el Proyecto Huascarán, como órgano desconcentrado del Ministerio de Educación, dependiente del Viceministerio de Gestión Pedagógica, encargado de desarrollar, ejecutar, evaluar y supervisar, con fines educativos, una red nacional, moderna, confiable, con acceso a todas las fuentes de información y capaz de transmitir contenidos de multimedia, a efectos de mejorar la calidad educativa en las zonas rurales y urbanas. Dicho Proyecto contará con la participación activa del Ministerio de Transportes, Comunicaciones, Vivienda y Construcción, en el desarrollo de las telecomunicaciones y servicios informáticos. Decreto Supremo 067-2001-ED, Crean el proyecto Huascarán, 15-11-2001
 
-Artículo 1º.- Créase el Proyecto Huascarán, como órgano desconcentrado del Ministerio de Educación, dependiente del Viceministerio de Gestión Pedagógica, encargado de desarrollar, ejecutar, evaluar y supervisar, con fines educativos, una red nacional, moderna, confiable, con acceso a todas las fuentes de información y capaz de transmitir contenidos de multimedia, a efectos de mejorar la calidad educativa en las zonas rurales y urbanas. Dicho Proyecto contará con la participación activa del Ministerio de Transportes, Comunicaciones, Vivienda y Construcción, en el desarrollo de las telecomunicaciones y servicios informáticos. Decreto Supremo 067-2001-ED, Crean el proyecto Huascarán, 15-11-2001
-
-Artículo 1. Objeto de la Ley
+> Artículo 1. Objeto de la Ley
 El propósito de la Ley es impulsar el desarrollo, utilización y masificación de la Banda Ancha en todo el territorio nacional, tanto en la oferta como en la demanda por este servicio, promoviendo el despliegue de infraestructura, servicios, contenidos, aplicaciones y habilidades digitales, como medio que favorece y facilita la inclusión social, el desarrollo socioeconómico, la
 competitividad, la seguridad del país y la transformación organizacional hacia una sociedad de la información y el
 conocimiento. Ley 29906, Ley de promoción de la banda ancha y construcción de la red dorsal nacional de fibra óptica, 28-6-2012
+
+## Reflexión 
+
+
