@@ -29,15 +29,14 @@ Al comparar ambos documentos encontramos las siguientes palabras en común: [1] 
 
 En la imagen observamos a existencia de las mismas palabras en ambos documentos. La lectura de ellos nos indican que se refieren a los mismos conceptos es decir en [1] Nacional, en ambos proyectos se hace referencia que tiene que el alcance de la infraestructura debe permitir conectar todo el país; en [2] Telecomunicaciones, ambos documentos hacen referencia a una red de comunicaciones que permite transmitir datos y voz; y conectarse a otras redes de información, nacionales o extranjeras. Finalmente [3] Servicios, se entiende que ambos proyectos será un servicio, una prestación que el ciudadano tendrá disponible a través de un agente privado concesionario de su provisión. 
 
-Sinclair, S. & G. Rockwell (2019) TermsRadio. Voyant Tools. Retrieve June 9, 2019, from http://voyant-tools.org
-![RedDorsaldelPlanHuascaran](/img/LaRedDorsalDelPlanHuascaran-1.jpg "A cute kitten")
-
 ![Red Dorsal Nacional de Fibra Óptica del Plan Huascaran]({{"/img/LaRedDorsalDelPlanHuascaran-1.jpg" | absolute_url }})
 
+Sinclair, S. & G. Rockwell (2019) TermsRadio. Voyant Tools. Retrieve June 9, 2019, from http://voyant-tools.org
+Para continuar analizando los textos pueden ingresar al (siguiente enlace)[https://voyant-tools.org/?corpus=3bdbf62ff01e12e5716f7997b6f5cd76]
 
-Es de esta manera como establecemos una aproximación conceptual entre ambos proyectos evidenciada en el significado común de tres palabras que resumen el sentido de los proyectos estudiados. 
+De esta manera es como hemos establecido una aproximación conceptual entre ambos proyectos evidenciada en el significado común de tres palabras que resumen el sentido de aquellas iniciativas. 
 
-##Ausencias funcionales 
+###Ausencias funcionales 
 De esa manera, como hoy se discuten los problemas de la concesión a los operadores de la Red Dorsal Nacional de Fibra Óptica ayer se discutía, en el Plan Huascaran, la forma en que un operador entregaría acceso a la Internet a todos los colegios públicos del Perú, tarea más que imposible considerando el presupuesto nacional, nuestra geografía, la cantidad de estudiantes por aula en cada institución educativa, la disposición de equipos en cada una de ellas, entre otras consideraciones logísticas solo para dejar de hablar de los aspectos conceptuales de la formación mediática de los docente y alumnos para que pudieran hacer un uso intensivo de la promesa de la conexión cuando esta llegara a su escuela. 
 
 En ese sentido, la definición de ausencia funcional para nosotros se define como el "no-hacer", el "dejar pasar" o simplemente el "hacer" por el "hacer" en la evidencia más próxima de la búsqueda ... del funcionario público 
@@ -48,7 +47,7 @@ En ese sentido, la definición de ausencia funcional para nosotros se define com
 
 Pero alguien puede indicar que esta situación es diferente, por que el actual proyecto al cual hemos hecho referencia es de infraestructura y el otro fue educativo; que el primero proviene directamente del Ministerio de Transporte y Comunicaciones; y el otro, del Ministerio de Educación. 
 
-##Distancias espaciales
+###Distancias espaciales
 
 
 
