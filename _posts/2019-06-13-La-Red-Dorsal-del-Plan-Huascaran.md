@@ -35,7 +35,7 @@ En la imagen observamos a existencia de las mismas palabras en ambos documentos.
 
 Sinclair, S. & G. Rockwell (2019) TermsRadio. Voyant Tools. Retrieve June 9, 2019, from http://voyant-tools.org
 
-<img src="/img/LaRedDorsalDelPlanHuascaran-1.jpg" alt="alt text" width="200"/>
+<img src="/img/LaRedDorsalDelPlanHuascaran-1.jpg" alt="alt text" width="800"/>
 
 
 Es de esta manera como establecemos una aproximación conceptual entre ambos proyectos evidenciada en el significado común de tres palabras que resumen el sentido de los proyectos estudiados. 
