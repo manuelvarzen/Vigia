@@ -20,9 +20,9 @@ categories:
 
 Una de las consideraciones primarias de nuestra forma cotidiana de ser (y parecer; y padecer, como peruanos) es olvidar, tal vez, por siempre, lo que hicimos o lo que dejamos de hacer. En un país cada vez más fragmentado en su presente es imposible pensar que tuvo un pasado integrado y por lo tanto seria lógico, tal vez, esperar un futuro apocalíptico. Esta visión no es única, de hecho varios personajes de nuestra sociedad refieren siempre mirar el vaso medio vacío aunque algunos otros (cada vez menos) prefieren verlo medio lleno. Sin embargo, aunque duela y enoje, siempre será aconsejable recordar que será imposible dejar el pasado atrás aunque tengamos que reconcer el derecho al olvido.  
 
-Así, con esta premisa por delante, en este blog explicaremos, a través de un modelo conceptual para evaluar politicas públicas, desde una pesepctiva cualitativa e interpretativa; las proximidades conceptuales, las ausencias funcionales y las distancias espaciales que tienen en común dos proyectos importantes en la historia de las telecomunicaciones del Perú: El plan Huascarán, creado en 2001; y la ley de en 2012.  
+Así, con esta premisa por delante, en este post explicaremos, a través de un modelo conceptual para evaluar politicas públicas, desde una pesepctiva cualitativa e interpretativa; las proximidades conceptuales, las ausencias funcionales y las distancias espaciales que tienen en común dos proyectos importantes en la historia de las telecomunicaciones del Perú: El plan Huascarán, creado en 2001; y la ley de en 2012.  
 
-##Proximidades conceptuales: 
+## Proximidades conceptuales: 
 Al comparar ambos documentos encontramos las siguientes palabras en común: [1] Nacional [2] Telecomunicaciones [3] Servicios; y otras dos: [4]Ancha y [5]Banda aparecen vinculadas con menor énfasis. De esta comparación podemos inferir que ambos proyectos han sido concebidos para proporcionar servicios de telecomunicaciones a nivel nacional teniendo en común que los dos reclaman una infraestructura para operar. Obviamente, en la ley que crea la Red Dorsal Nacional de Fibra Óptica los conceptos técnicos y las consideraciones tecnológicas fueron más específicos que en el decreto supremo que origino el plan Huascaran. 
 
 En la imagen observamos a existencia de las mismas palabras en ambos documentos. La lectura de ellos nos indican que se refieren a los mismos conceptos es decir en [1] Nacional, en ambos proyectos se hace referencia que tiene que el alcance de la infraestructura debe permitir conectar todo el país; en [2] Telecomunicaciones, ambos documentos hacen referencia a una red de comunicaciones que permite transmitir datos y voz; y conectarse a otras redes de información, nacionales o extranjeras. Finalmente [3] Servicios, se entiende que ambos proyectos será un servicio, una prestación que el ciudadano tendrá disponible a través de un agente privado concesionario de su provisión. 
@@ -34,10 +34,18 @@ Para continuar analizando los textos pueden ingresar al (siguiente enlace)[https
 
 De esta manera hemos establecido, a priori, una aproximación conceptual entre ambos proyectos evidenciada en el significado común de tres palabras que resumen el sentido de aquellas iniciativas. 
 
-###Ausencias funcionales 
+## Ausencias funcionales 
 De esa manera, como hoy se discuten los problemas de la concesión a los operadores de la Red Dorsal Nacional de Fibra Óptica ayer se discutía, en el Plan Huascaran, la forma en que un operador entregaría acceso a la Internet a todos los colegios públicos del Perú, tarea más que imposible considerando el presupuesto nacional, nuestra geografía, la cantidad de estudiantes por aula en cada institución educativa, la disposición de equipos en cada una de ellas, entre otras consideraciones logísticas solo para dejar de hablar de los aspectos conceptuales de la formación mediática de los docente y alumnos para que pudieran hacer un uso intensivo de la promesa de la conexión cuando esta llegara a su escuela. 
 
-En ese sentido, la definición de ausencia funcional para nosotros se define como el "no-hacer", el "dejar pasar" o simplemente el "hacer" por el "hacer" en la evidencia más próxima de la búsqueda ... del funcionario público 
+Una revisión rápida de las noticias registradas por los medios de comunicación nos permiten conocer que en ambos proyectos siempre hubieron problemas con los proveedores en el entendido en que se ofrecieron algunos 
+
+Una de la primeras fuentes que se puede revisar para ver el estado de avance del proyecto es ... la sección dedicada a este tema por parte del diario Gestión. Como se puede leer... Asimismo, si revisamos la sección ... que se dedico a cubrir las noticias dle plan Huascarán encontraremos esta otra fuente de datos que indican los suecedido en aquellos años. La comparación de ambos registros nos conduce a inferir que las ausencias funcionales son similares, que los problemas parecidos aunque los actores, en algunos casos, son distintos. 
+
+Es por es
+
+## Distancias espaciales
+
+En ese sentido, la definición de ausencia funcional para nosotros se define como el "no-hacer", el "dejar pasar" o simplemente el "hacer" por el "hacer" en la evidencia más próxima de la búsqueda del funcionario público 
 
 
 ##Recordar es volver a vivir: a modo de reflexión. 
