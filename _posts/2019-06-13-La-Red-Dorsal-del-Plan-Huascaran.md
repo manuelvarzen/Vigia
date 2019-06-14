@@ -47,31 +47,9 @@ Como no podría ser de otra manera, desde la perspectiva del funcionario públic
 
 ## Reflexión 
 
+Artículo 1º.- Créase el Proyecto Huascarán, como órgano desconcentrado del Ministerio de Educación, dependiente del Viceministerio de Gestión Pedagógica, encargado de desarrollar, ejecutar, evaluar y supervisar, con fines educativos, una red nacional, moderna, confiable, con acceso a todas las fuentes de información y capaz de transmitir contenidos de multimedia, a efectos de mejorar la calidad educativa en las zonas rurales y urbanas. Dicho Proyecto contará con la participación activa del Ministerio de Transportes, Comunicaciones, Vivienda y Construcción, en el desarrollo de las telecomunicaciones y servicios informáticos. Decreto Supremo 067-2001-ED, Crean el proyecto Huascarán, 15-11-2001
 
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Considerando... 
-Que, mediante Decreto Supremo Nº 066-2001-PCM se aprobaron los lineamientos de políticas generales para masificar el acceso a Internet en el Perú, estableciéndose como políticas generales, entre otras, que las entidades gubernamentales según el ámbito de su competencia identifiquen y desarrollen proyectos pilotos regionales y nacionales basados en tecnologías de la información;
-
-Que, con esta finalidad, se considera conveniente institucionalizar un Proyecto que permita establecer la interconexión telemática de las entidades del Estado para poten- ciar los servicios que presta a la comunidad, iniciándose dicho proceso desde el Sector Educación;
-
-
-Artículo 1º.- Créase el Proyecto Huascarán, como órgano desconcentrado del Ministerio de Educación, dependiente del Viceministerio de Gestión Pedagógica, encargado de desarrollar, ejecutar, evaluar y supervisar, con fines educativos, una red nacional, moderna, confiable, con acceso a todas las fuentes de información y capaz de transmitir contenidos de multimedia, a efectos de mejorar la calidad educativa en las zonas rurales y urbanas. Dicho Proyecto contará con la participación activa del Ministerio de Transportes, Comunicaciones, Vivienda y Construcción, en el desarrollo de las telecomunicaciones y servicios informáticos.
+Artículo 1. Objeto de la Ley
+El propósito de la Ley es impulsar el desarrollo, utilización y masificación de la Banda Ancha en todo el territorio nacional, tanto en la oferta como en la demanda por este servicio, promoviendo el despliegue de infraestructura, servicios, contenidos, aplicaciones y habilidades digitales, como medio que favorece y facilita la inclusión social, el desarrollo socioeconómico, la
+competitividad, la seguridad del país y la transformación organizacional hacia una sociedad de la información y el
+conocimiento. Ley 29906, Ley de promoción de la banda ancha y construcción de la red dorsal nacional de fibra óptica, 28-6-2012
