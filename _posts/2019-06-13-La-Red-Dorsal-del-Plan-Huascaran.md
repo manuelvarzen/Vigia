@@ -20,7 +20,7 @@ categories:
 
 Una de las consideraciones primarias de nuestra forma cotidiana de ser (y parecer; y padecer, como peruanos) es olvidar, tal vez, por siempre, lo que hicimos o lo que dejamos de hacer. En un país cada vez más fragmentado en su presente es imposible pensar que tuvo un pasado integrado y por lo tanto seria lógico, tal vez, esperar un futuro apocalíptico. Esta visión no es única, de hecho varios personajes de nuestra sociedad refieren siempre mirar el vaso medio vacío aunque algunos otros (cada vez menos) prefieren verlo medio lleno. Sin embargo, aunque duela y enoje, siempre será aconsejable recordar que será imposible dejar el pasado atrás aunque tengamos que reconcer el derecho al olvido.  
 
-Así, con esta premisa por delante, en este post explicaremos, a través de un modelo conceptual para evaluar politicas públicas, desde una pesepctiva cualitativa e interpretativa; las proximidades conceptuales, las ausencias funcionales y las distancias espaciales que tienen en común dos proyectos importantes en la historia de las telecomunicaciones del Perú: El plan Huascarán, creado en 2001; y la ley de en 2012.  
+Así, con esta premisa por delante, explicaremos, a través de un modelo conceptual para evaluar politicas públicas, desde una pesepctiva cualitativa e interpretativa (de nuestra autoria); las proximidades conceptuales, las ausencias funcionales y las distancias espaciales que tienen en común dos proyectos importantes en la historia de las telecomunicaciones del Perú: El plan Huascarán, creado en 2001; y la ley de en 2012.  
 
 ## Proximidades conceptuales: 
 Al comparar ambos documentos encontramos las siguientes palabras en común: [1] Nacional [2] Telecomunicaciones [3] Servicios; y otras dos: [4]Ancha y [5]Banda aparecen vinculadas con menor énfasis. De esta comparación podemos inferir que ambos proyectos han sido concebidos para proporcionar servicios de telecomunicaciones a nivel nacional teniendo en común que los dos reclaman una infraestructura para operar. Obviamente, en la ley que crea la Red Dorsal Nacional de Fibra Óptica los conceptos técnicos y las consideraciones tecnológicas fueron más específicos que en el decreto supremo que origino el plan Huascaran. 
@@ -37,55 +37,31 @@ De esta manera hemos establecido, a priori, una aproximación conceptual entre a
 ## Ausencias funcionales 
 De esa manera, como hoy se discuten los problemas de la concesión a los operadores de la Red Dorsal Nacional de Fibra Óptica ayer se discutía, en el Plan Huascaran, la forma en que un operador entregaría acceso a la Internet a todos los colegios públicos del Perú, tarea más que imposible considerando el presupuesto nacional, nuestra geografía, la cantidad de estudiantes por aula en cada institución educativa, la disposición de equipos en cada una de ellas, entre otras consideraciones logísticas solo para dejar de hablar de los aspectos conceptuales de la formación mediática de los docente y alumnos para que pudieran hacer un uso intensivo de la promesa de la conexión cuando esta llegara a su escuela. 
 
-Una revisión rápida de las noticias registradas por los medios de comunicación nos permiten conocer que en ambos proyectos siempre hubieron problemas con los proveedores en el entendido en que se ofrecieron algunos 
+Una revisión rápida de las noticias registradas por los medios de comunicación nos permiten conocer que en ambos proyectos siempre hubieron problemas con los proveedores en el entendido en que se ofrecieron algunos supuestos que después no se cumplieron, es decir, la masa critica necesaria para que la inversión sea rentable. En esta primera fuente es posible hacer un recuento de lo sucedido con el la red dorsal nacional de fibra óptica (noticias vinculadas a la red dorsal nacional de fibra óptica)[https://gestion.pe/noticias/red-dorsal-nacional-de-fibra-optica] y en este otro encontrar una noticia vinculada al plan Huascaran de (aquellos años)[https://larepublica.pe/sociedad/320690-ministro-sota-nadal-anuncia-lucha-frontal-contra-el-analfabetismo]. 
 
-Una de la primeras fuentes que se puede revisar para ver el estado de avance del proyecto es ... la sección dedicada a este tema por parte del diario Gestión. Como se puede leer... Asimismo, si revisamos la sección ... que se dedico a cubrir las noticias dle plan Huascarán encontraremos esta otra fuente de datos que indican los suecedido en aquellos años. La comparación de ambos registros nos conduce a inferir que las ausencias funcionales son similares, que los problemas parecidos aunque los actores, en algunos casos, son distintos. 
-
-Es por es
+Así, referiremos, por ejemplo, que en el inicio del plan Huascarán se esperaba que las cabinas de Internet (modelo de negocio impulsado por la Red Cientifica Peruana, institución que introdujo el Internet en el Perú) suplieran de alguna manera la ausencia de conexión en las escuelas del país a las que se les había prometido el acceso a la Internet. En las negociaciones actuales de la red dorsal nacional los proyectos para los micro telcos que deberían ser impulsados por los gobierno distritales dejan de cumplir la cuota que demanda el operador para generar la inversión requerida y atender aquella población. La situación es similar y simple: no alcanza la demanda para obtener una oferta de calidad por pare del operador. 
 
 ## Distancias espaciales
 
-En ese sentido, la definición de ausencia funcional para nosotros se define como el "no-hacer", el "dejar pasar" o simplemente el "hacer" por el "hacer" en la evidencia más próxima de la búsqueda del funcionario público 
+Como no podría ser de otra manera, desde la perspectiva del funcionario público del poder ejecutivo, la ambición de su alcance, siempre es una demanda de infraestructura a nivel nacional acompañada de un discurso que promete solucionar los problemas del último rincón del Perú. Pero en todos los casos la realidad del proveedor supera el anhelo del funcionario y todo se reduce a lo mínimo que se puede alcanzar y en ambos casos la situación ha sido similar.
 
-
-##Recordar es volver a vivir: a modo de reflexión. 
-¿Quién desearía volver a vivir una mala experiencia? Usualmente, nadie. Pero cuando observamos el esfuerzo del Estado es imposible olvidar que en la experiencia presente no existe un pasado, un antecedente. Por eso es importante recordar lo sucedido, aunque duela y enoje. 
-
-Pero alguien puede indicar que esta situación es diferente, por que el actual proyecto al cual hemos hecho referencia es de infraestructura y el otro fue educativo; que el primero proviene directamente del Ministerio de Transporte y Comunicaciones; y el otro, del Ministerio de Educación. 
-
-###Distancias espaciales
-
-
-
-nos interesa recordar el Plan Huascaran (D.S) como una experiencia olvidada por quienes han implementado la Red Dorsal Nacional de Fibra Óptica (Ley ). Y esta inquietud quiere sostenerse en el concepto que guió y guía su implantación de manera  
-
-
-
-Hoy es más fácil que ayer recuperar la información de opiniones, artículos, investigaciones, informes y hasta datos, estructurados, no-estructurados y geo-espaciales de la situación de la Red Dorsal y un poco más complejo, recopilar la información de aquellos años del inicio del Plan Huascaran. Pero independiente de esta situación lo concreto es que son dos situaciones similares, dos proyectos vinculados directamente al Ministerio de Transportes y Comunicaciones; y articulados por la interdependencia de la infraestructura y la demanda, el dimensionamiento como lo indicarían bien los ingenieros. Pero no nos interesa encontrar similitudes en estos problemas operativos de la concesión sino los puntos de intersección de ambos proyectos. 
+## Reflexión 
 
 
 
 
 
 
-Las investigaciones que dieron cuentan del Plan Huascaran son varias y citaremos algunas de ellas. Hoy también se pueden citar varias noticias que dan cuenta del estado de la Red Dorsal Nacional de Fibra Óptica. Una solución u otra considera siempre ese punto de quiebre relacionado directamente con el contrato de concesión, su concepción y su diseño, al cual se tiene que recurrir cuando las cosas dejan de funcionar para el ciudadano, recordándoles  
+ 
 
 
 
 
 
-Pero los problemas de cualquier concesión en nuestro país siempre son los mismos, miremos el sector que miremos, siempre encontraremos que algo se dejo de hacer en el diseño del contrato y cuando comienza a funcionar el despliegue logístico del anhelo concebido nada funciona y todo deja de funcionar justamente en el punto de acceso donde el ciudadano no encuentra lo  
-
-
-
-como ayer se discutía los contratos de concesión a los proveedores para alcanzar a cada escuela del país conexión a Internet durante el inicio del Plan Huascaran. Ayer como hoy, las situaciones son similares y los actores son otros, pero los resultados son los mismos: las escuelas no conectadas de hace varios años son los distritos que ahora no pueden ser conectados. El proveedor que gano la concesión no hace más esfuerzo al igual que el proveedor de ayer que hizo más que solo conectar lo que tenía que conectar. 
 
 
 
 
-Pero lo cierto es que si revisamos las consideraciones, del primer articulo y uno que otro párrafo adicional encontraremos que ambos documentos hay referencias cruzadas a la infraestructura y al uso de la misma; por que como se puede acceder a las fuentes de información... Es cierto que el proyecto de Red Dorsal lo ampara una ley y al otro proyecto fue creado con un Decreto Supremo, aunque en esa época se gobernaba con Decretos Supremos. 
-
-Que las operaciones, en el actual proyecto son impulsadas integralmente por el MTC en un proyecto de infraestructura y que el otro proyecto, el plan Huascaran, fue un proyecto educativo. 
 
 
 
