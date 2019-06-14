@@ -5,10 +5,10 @@ headline: La Red Dorsal del Plan HUascaran
 publisher: manuelvarzen
 title: "La Red Dorsal del Plan Huascaran"
 date: 2019-06-13
-summary: An overview of the peruvian education system´s complexity
-description: Distancias espaciales y ausencias funcionales pero proximidades conceptuales en el Plan Huascaran y la Red Dorsal Nacional de Fibra Óptica: similares situaciones y diferentes actores.
-image: /Vigia/img/
-image-sm: /Vigia/
+summary: At one point and another in the history of telecommunications in Peru, there have been two similar initiatives: the Huascaran plan (2001) and the Fiber Optic Dorsal Network (2012). Both are similar in concept, in their functional absences and in their spatial distances.
+description: Spatial distances and functional absences but conceptual proximities in the Huascaran Plan and the National Fiber Optic Dorsal Network: similar situations and different actors.
+image: /Vigia/img/LaRedDorsaldelPlanHuascaran-1.png
+image-sm: /Vigia/LaRedDorsaldelPlanHuascaran-1.png
 categories:
   - Education-Telecommunications  
   - Education-Systems
@@ -25,8 +25,10 @@ Con esta premisa nos interesa vincular el Plan Huascaran con la Red Dorsal Nacio
 ##Proximidades conceptuales: 
 Al comparar ambos documentos encontramos las siguientes palabras en común: [1] Nacional [2] Telecomunicaciones [3] Servicios; otras 2 [4] Ancha y [5] aparece vinculadas con menor énfasis. De esta comparación podemos inferir que ambos proyectos han sido concebidos para proporcionar servicios de telecomunicaciones a nivel nacional teniendo en común que los dos reclaman una infraestructura para operar. Obviamente, en la ley que crea la Red Dorsal Nacional de Fibra Óptica los conceptos técnicos y las consideraciones tecnológicas fueron más específicos que en el decreto supremo que origino el plan Huascaran. 
 
-En la imagen observamos a existencia de las mismas palabras en ambos documentos. La lectura de ellos nos indican que se refieren a los mismos conceptos es decir en [1] Nacional, en ambos proyectos se hace referencia que tiene que el alcance de la infraestructura debe permitir conectar todo el país; en [2] Telecomunicaciones, ambos documentos hacen referencia a una red de comunicaciones que permite transmitir datos y voz; y conectarse a otras redes de información, nacionales o extranjeras. Finalmente [3] Servicios, se entiende que ambos proyectos será un servicio, una prestación que el ciudadano tendrá disponible a través de un agente privado concesionario de su provisión. 
+En la imagen observamos la existencia de las mismas palabras en ambos documentos. La lectura de ellos nos indican que se refieren a los mismos conceptos es decir en [1] Nacional, en ambos proyectos se hace referencia que tiene que el alcance de la infraestructura debe permitir conectar todo el país; en [2] Telecomunicaciones, ambos documentos hacen referencia a una red de comunicaciones que permite transmitir datos y voz; y conectarse a otras redes de información, nacionales o extranjeras. Finalmente [3] Servicios, se entiende que ambos proyectos será un servicio, una prestación que el ciudadano tendrá disponible a través de un agente privado concesionario de su provisión. 
 
+
+https://voyant-tools.org/?corpus=3bdbf62ff01e12e5716f7997b6f5cd76
 Sinclair, S. & G. Rockwell (2019) TermsRadio. Voyant Tools. Retrieve June 9, 2019, from http://voyant-tools.org
 
 
